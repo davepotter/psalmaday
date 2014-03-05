@@ -1,0 +1,30 @@
+<h3>Psalm 20</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [For the Chief Musician. A Psalm by David.] May Yahweh answer you in the day of trouble. May the name of the God of Jacob set you up on high,</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> send you help from the sanctuary, grant you support from Zion,</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> remember all your offerings, and accept your burnt sacrifice. Selah.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> May He grant you your heart's desire, and fulfill all your counsel.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> We will triumph in your salvation. In the name of our God, we will set up our banners. May Yahweh grant all your requests.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> Now I know that Yahweh saves his anointed. He will answer him from his holy heaven, with the saving strength of his right hand.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> Some trust in chariots, and some in horses, but we trust the name of Yahweh our God.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> They are bowed down and fallen, but we rise up, and stand upright.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> Save, Yahweh! Let the King answer us when we call!</div>
+</div>
+</div>

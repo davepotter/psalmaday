@@ -1,0 +1,21 @@
+<h3>Psalm 150</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> Praise Yah! Praise God in his sanctuary! Praise him in his heavens for his acts of power!</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Praise him for his mighty acts! Praise him according to his excellent greatness!</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> Praise him with the sounding of the trumpet! Praise him with harp and lyre!</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Praise him with tambourine and dancing! Praise him with stringed instruments and flute!</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> Praise him with loud cymbals! Praise him with resounding cymbals!</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> Let everything that has breath praise Yah! Praise Yah!</div>
+</div>
+</div>

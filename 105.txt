@@ -1,0 +1,138 @@
+<h3>Psalm 105</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> Give thanks to Yahweh! Call on his name! Make his doings known among the peoples.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Sing to him, sing praises to him! Tell of all his marvelous works.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> Glory in his holy name. Let the heart of those who seek Yahweh rejoice.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Seek Yahweh and his strength. Seek his face forever more.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> Remember his marvelous works that he has done; his wonders, and the judgments of his mouth,</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> you seed of Abraham, his servant, you children of Jacob, his chosen ones.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> He is Yahweh, our God. His judgments are in all the earth.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> He has remembered his covenant forever, the word which he commanded to a thousand generations,</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> the covenant which he made with Abraham, his oath to Isaac,</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> and confirmed the same to Jacob for a statute; to Israel for an everlasting covenant,</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> saying, "To you I will give the land of Canaan, the lot of your inheritance;"</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> when they were but a few men in number, yes, very few, and foreigners in it.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> They went about from nation to nation, from one kingdom to another people.</div>
+</div>
+<div class="row">
+<div class="number">14</div><div class="verse"> He allowed no one to do them wrong. Yes, he reproved kings for their sakes,</div>
+</div>
+<div class="row">
+<div class="number">15</div><div class="verse"> "Don't touch my anointed ones! Do my prophets no harm!"</div>
+</div>
+<div class="row">
+<div class="number">16</div><div class="verse"> He called for a famine on the land. He destroyed the food supplies.</div>
+</div>
+<div class="row">
+<div class="number">17</div><div class="verse"> He sent a man before them. Joseph was sold for a slave.</div>
+</div>
+<div class="row">
+<div class="number">18</div><div class="verse"> They bruised his feet with shackles. His neck was locked in irons,</div>
+</div>
+<div class="row">
+<div class="number">19</div><div class="verse"> until the time that his word happened, and Yahweh's word proved him true.</div>
+</div>
+<div class="row">
+<div class="number">20</div><div class="verse"> The king sent and freed him; even the ruler of peoples, and let him go free.</div>
+</div>
+<div class="row">
+<div class="number">21</div><div class="verse"> He made him lord of his house, and ruler of all of his possessions;</div>
+</div>
+<div class="row">
+<div class="number">22</div><div class="verse"> to discipline his princes at his pleasure, and to teach his elders wisdom.</div>
+</div>
+<div class="row">
+<div class="number">23</div><div class="verse"> Israel also came into Egypt. Jacob sojourned in the land of Ham.</div>
+</div>
+<div class="row">
+<div class="number">24</div><div class="verse"> He increased his people greatly, and made them stronger than their adversaries.</div>
+</div>
+<div class="row">
+<div class="number">25</div><div class="verse"> He turned their heart to hate his people, to conspire against his servants.</div>
+</div>
+<div class="row">
+<div class="number">26</div><div class="verse"> He sent Moses, his servant, and Aaron, whom he had chosen.</div>
+</div>
+<div class="row">
+<div class="number">27</div><div class="verse"> They performed miracles among them, and wonders in the land of Ham.</div>
+</div>
+<div class="row">
+<div class="number">28</div><div class="verse"> He sent darkness, and made it dark. They didn't rebel against his words.</div>
+</div>
+<div class="row">
+<div class="number">29</div><div class="verse"> He turned their waters into blood, and killed their fish.</div>
+</div>
+<div class="row">
+<div class="number">30</div><div class="verse"> Their land swarmed with frogs, even in the chambers of their kings.</div>
+</div>
+<div class="row">
+<div class="number">31</div><div class="verse"> He spoke, and swarms of flies came, and lice in all their borders.</div>
+</div>
+<div class="row">
+<div class="number">32</div><div class="verse"> He gave them hail for rain, with lightning in their land.</div>
+</div>
+<div class="row">
+<div class="number">33</div><div class="verse"> He struck their vines and also their fig trees, and shattered the trees of their country.</div>
+</div>
+<div class="row">
+<div class="number">34</div><div class="verse"> He spoke, and the locusts came, and the grasshoppers, without number,</div>
+</div>
+<div class="row">
+<div class="number">35</div><div class="verse"> ate up every plant in their land; and ate up the fruit of their ground.</div>
+</div>
+<div class="row">
+<div class="number">36</div><div class="verse"> He struck also all the firstborn in their land, the first fruits of all their manhood.</div>
+</div>
+<div class="row">
+<div class="number">37</div><div class="verse"> He brought them forth with silver and gold. There was not one feeble person among his tribes.</div>
+</div>
+<div class="row">
+<div class="number">38</div><div class="verse"> Egypt was glad when they departed, for the fear of them had fallen on them.</div>
+</div>
+<div class="row">
+<div class="number">39</div><div class="verse"> He spread a cloud for a covering, fire to give light in the night.</div>
+</div>
+<div class="row">
+<div class="number">40</div><div class="verse"> They asked, and he brought quails, and satisfied them with the bread of the sky.</div>
+</div>
+<div class="row">
+<div class="number">41</div><div class="verse"> He opened the rock, and waters gushed out. They ran as a river in the dry places.</div>
+</div>
+<div class="row">
+<div class="number">42</div><div class="verse"> For he remembered his holy word, and Abraham, his servant.</div>
+</div>
+<div class="row">
+<div class="number">43</div><div class="verse"> He brought forth his people with joy, his chosen with singing.</div>
+</div>
+<div class="row">
+<div class="number">44</div><div class="verse"> He gave them the lands of the nations. They took the labor of the peoples in possession,</div>
+</div>
+<div class="row">
+<div class="number">45</div><div class="verse"> that they might keep his statutes, and observe his laws. Praise Yah!</div>
+</div>
+</div>

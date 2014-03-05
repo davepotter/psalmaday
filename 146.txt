@@ -1,0 +1,33 @@
+<h3>Psalm 146</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> Praise Yah! Praise Yahweh, my soul.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> While I live, I will praise Yahweh. I will sing praises to my God as long as I exist.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> Don't put your trust in princes, each a son of man in whom there is no help.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> His spirit departs, and he returns to the earth. In that very day, his thoughts perish.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> Happy is he who has the God of Jacob for his help, whose hope is in Yahweh, his God:</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> who made heaven and earth, the sea, and all that is in them; who keeps truth forever;</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> who executes justice for the oppressed; who gives food to the hungry. Yahweh frees the prisoners.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> Yahweh opens the eyes of the blind. Yahweh raises up those who are bowed down. Yahweh loves the righteous.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> Yahweh preserves the foreigners. He upholds the fatherless and widow, but the way of the wicked he turns upside down.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> Yahweh will reign forever; your God, O Zion, to all generations. Praise Yah!</div>
+</div>
+</div>

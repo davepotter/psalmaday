@@ -1,0 +1,24 @@
+<h3>Psalm 87</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [A Psalm by the sons of Korah; a Song.] His foundation is in the holy mountains.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Yahweh loves the gates of Zion more than all the dwellings of Jacob.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> Glorious things are spoken about you, city of God. Selah.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> I will record Rahab{Rahab is a reference to Egypt.} and Babylon among those who acknowledge me. Behold, Philistia, Tyre, and also Ethiopia: "This one was born there."</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> Yes, of Zion it will be said, "This one and that one was born in her;" the Most High himself will establish her.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> Yahweh will count, when he writes up the peoples, "This one was born there." Selah.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> Those who sing as well as those who dance say, "All my springs are in you."</div>
+</div>
+</div>

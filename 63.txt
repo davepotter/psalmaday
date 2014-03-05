@@ -1,0 +1,36 @@
+<h3>Psalm 63</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [A Psalm by David, when he was in the desert of Judah.] God, you are my God. I will earnestly seek you. My soul thirsts for you. My flesh longs for you, in a dry and weary land, where there is no water.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> So I have seen you in the sanctuary, watching your power and your glory.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> Because your loving kindness is better than life, my lips shall praise you.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> So I will bless you while I live. I will lift up my hands in your name.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> My soul shall be satisfied as with the richest food. My mouth shall praise you with joyful lips,</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> when I remember you on my bed, and think about you in the night watches.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> For you have been my help. I will rejoice in the shadow of your wings.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> My soul stays close to you. Your right hand holds me up.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> But those who seek my soul, to destroy it, shall go into the lower parts of the earth.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> They shall be given over to the power of the sword. They shall be jackal food.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> But the king shall rejoice in God. Everyone who swears by him will praise him, for the mouth of those who speak lies shall be silenced.</div>
+</div>
+</div>

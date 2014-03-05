@@ -1,0 +1,39 @@
+<h3>Psalm 97</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> Yahweh reigns! Let the earth rejoice! Let the multitude of islands be glad!</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Clouds and darkness are around him. Righteousness and justice are the foundation of his throne.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> A fire goes before him, and burns up his adversaries on every side.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> His lightning lights up the world. The earth sees, and trembles.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> The mountains melt like wax at the presence of Yahweh, at the presence of the Lord of the whole earth.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> The heavens declare his righteousness. All the peoples have seen his glory.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> Let all them be shamed who serve engraved images, who boast in their idols. Worship him, all you gods!</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> Zion heard and was glad. The daughters of Judah rejoiced, because of your judgments, Yahweh.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> For you, Yahweh, are most high above all the earth. You are exalted far above all gods.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> You who love Yahweh, hate evil. He preserves the souls of his saints. He delivers them out of the hand of the wicked.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> Light is sown for the righteous, and gladness for the upright in heart.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> Be glad in Yahweh, you righteous people! Give thanks to his holy Name.</div>
+</div>
+</div>

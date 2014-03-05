@@ -1,0 +1,21 @@
+<h3>Psalm 128</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [A Song of Ascents.] Blessed is everyone who fears Yahweh, who walks in his ways.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> For you will eat the labor of your hands. You will be happy, and it will be well with you.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> Your wife will be as a fruitful vine, in the innermost parts of your house; your children like olive plants, around your table.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Behold, thus is the man blessed who fears Yahweh.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> May Yahweh bless you out of Zion, and may you see the good of Jerusalem all the days of your life.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> Yes, may you see your children's children. Peace be upon Israel.</div>
+</div>
+</div>

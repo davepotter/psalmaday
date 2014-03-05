@@ -1,0 +1,57 @@
+<h3>Psalm 115</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> Not to us, Yahweh, not to us, but to your name give glory, for your loving kindness, and for your truth's sake.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Why should the nations say, "Where is their God, now?"</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> But our God is in the heavens. He does whatever he pleases.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Their idols are silver and gold, the work of men's hands.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> They have mouths, but they don't speak. They have eyes, but they don't see.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> They have ears, but they don't hear. They have noses, but they don't smell.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> They have hands, but they don't feel. They have feet, but they don't walk, neither do they speak through their throat.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> Those who make them will be like them; yes, everyone who trusts in them.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> Israel, trust in Yahweh! He is their help and their shield.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> House of Aaron, trust in Yahweh! He is their help and their shield.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> You who fear Yahweh, trust in Yahweh! He is their help and their shield.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> Yahweh remembers us. He will bless us. He will bless the house of Israel. He will bless the house of Aaron.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> He will bless those who fear Yahweh, both small and great.</div>
+</div>
+<div class="row">
+<div class="number">14</div><div class="verse"> May Yahweh increase you more and more, you and your children.</div>
+</div>
+<div class="row">
+<div class="number">15</div><div class="verse"> Blessed are you by Yahweh, who made heaven and earth.</div>
+</div>
+<div class="row">
+<div class="number">16</div><div class="verse"> The heavens are the heavens of Yahweh; but the earth has he given to the children of men.</div>
+</div>
+<div class="row">
+<div class="number">17</div><div class="verse"> The dead don't praise Yah, neither any who go down into silence;</div>
+</div>
+<div class="row">
+<div class="number">18</div><div class="verse"> But we will bless Yah, from this time forth and forevermore. Praise Yah!</div>
+</div>
+</div>

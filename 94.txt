@@ -1,0 +1,72 @@
+<h3>Psalm 94</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> Yahweh, you God to whom vengeance belongs, you God to whom vengeance belongs, shine forth.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Rise up, you judge of the earth. Pay back the proud what they deserve.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> Yahweh, how long will the wicked, how long will the wicked triumph?</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> They pour out arrogant words. All the evildoers boast.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> They break your people in pieces, Yahweh, and afflict your heritage.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> They kill the widow and the alien, and murder the fatherless.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> They say, "Yah will not see, neither will Jacob's God consider."</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> Consider, you senseless among the people; you fools, when will you be wise?</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> He who implanted the ear, won't he hear? He who formed the eye, won't he see?</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> He who disciplines the nations, won't he punish? He who teaches man knows.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> Yahweh knows the thoughts of man, that they are futile.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> Blessed is the man whom you discipline, Yah, and teach out of your law;</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> that you may give him rest from the days of adversity, until the pit is dug for the wicked.</div>
+</div>
+<div class="row">
+<div class="number">14</div><div class="verse"> For Yahweh won't reject his people, neither will he forsake his inheritance.</div>
+</div>
+<div class="row">
+<div class="number">15</div><div class="verse"> For judgment will return to righteousness. All the upright in heart shall follow it.</div>
+</div>
+<div class="row">
+<div class="number">16</div><div class="verse"> Who will rise up for me against the wicked? Who will stand up for me against the evildoers?</div>
+</div>
+<div class="row">
+<div class="number">17</div><div class="verse"> Unless Yahweh had been my help, my soul would have soon lived in silence.</div>
+</div>
+<div class="row">
+<div class="number">18</div><div class="verse"> When I said, "My foot is slipping!" Your loving kindness, Yahweh, held me up.</div>
+</div>
+<div class="row">
+<div class="number">19</div><div class="verse"> In the multitude of my thoughts within me, your comforts delight my soul.</div>
+</div>
+<div class="row">
+<div class="number">20</div><div class="verse"> Shall the throne of wickedness have fellowship with you, which brings about mischief by statute?</div>
+</div>
+<div class="row">
+<div class="number">21</div><div class="verse"> They gather themselves together against the soul of the righteous, and condemn the innocent blood.</div>
+</div>
+<div class="row">
+<div class="number">22</div><div class="verse"> But Yahweh has been my high tower, my God, the rock of my refuge.</div>
+</div>
+<div class="row">
+<div class="number">23</div><div class="verse"> He has brought on them their own iniquity, and will cut them off in their own wickedness. Yahweh, our God, will cut them off.</div>
+</div>
+</div>

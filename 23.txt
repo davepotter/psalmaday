@@ -1,0 +1,21 @@
+<h3>Psalm 23</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [A Psalm by David.] Yahweh is my shepherd: I shall lack nothing.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> He makes me lie down in green pastures. He leads me beside still waters.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> He restores my soul. He guides me in the paths of righteousness for his name's sake.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me. Your rod and your staff, they comfort me.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> You prepare a table before me in the presence of my enemies. You anoint my head with oil. My cup runs over.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> Surely goodness and loving kindness shall follow me all the days of my life, and I will dwell in Yahweh's house forever.</div>
+</div>
+</div>

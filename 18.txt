@@ -1,0 +1,153 @@
+<h3>Psalm 18</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [For the Chief Musician. By David the servant of Yahweh, who spoke to Yahweh the words of this song in the day that Yahweh delivered him from the hand of all his enemies, and from the hand of Saul. He said,] I love you, Yahweh, my strength.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Yahweh is my rock, my fortress, and my deliverer; my God, my rock, in whom I take refuge; my shield, and the horn of my salvation, my high tower.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> I call on Yahweh, who is worthy to be praised; and I am saved from my enemies.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> The cords of death surrounded me. The floods of ungodliness made me afraid.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> The cords of Sheol were around me. The snares of death came on me.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> In my distress I called on Yahweh, and cried to my God. He heard my voice out of his temple. My cry before him came into his ears.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> Then the earth shook and trembled. The foundations also of the mountains quaked and were shaken, because he was angry.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> Smoke went out of his nostrils. Consuming fire came out of his mouth. Coals were kindled by it.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> He bowed the heavens also, and came down. Thick darkness was under his feet.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> He rode on a cherub, and flew. Yes, he soared on the wings of the wind.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> He made darkness his hiding place, his pavilion around him, darkness of waters, thick clouds of the skies.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> At the brightness before him his thick clouds passed, hailstones and coals of fire.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> Yahweh also thundered in the sky. The Most High uttered his voice: hailstones and coals of fire.</div>
+</div>
+<div class="row">
+<div class="number">14</div><div class="verse"> He sent out his arrows, and scattered them; Yes, great lightning bolts, and routed them.</div>
+</div>
+<div class="row">
+<div class="number">15</div><div class="verse"> Then the channels of waters appeared. The foundations of the world were laid bare at your rebuke, Yahweh, at the blast of the breath of your nostrils.</div>
+</div>
+<div class="row">
+<div class="number">16</div><div class="verse"> He sent from on high. He took me. He drew me out of many waters.</div>
+</div>
+<div class="row">
+<div class="number">17</div><div class="verse"> He delivered me from my strong enemy, from those who hated me; for they were too mighty for me.</div>
+</div>
+<div class="row">
+<div class="number">18</div><div class="verse"> They came on me in the day of my calamity, but Yahweh was my support.</div>
+</div>
+<div class="row">
+<div class="number">19</div><div class="verse"> He brought me forth also into a large place. He delivered me, because he delighted in me.</div>
+</div>
+<div class="row">
+<div class="number">20</div><div class="verse"> Yahweh has rewarded me according to my righteousness. According to the cleanness of my hands has he recompensed me.</div>
+</div>
+<div class="row">
+<div class="number">21</div><div class="verse"> For I have kept the ways of Yahweh, and have not wickedly departed from my God.</div>
+</div>
+<div class="row">
+<div class="number">22</div><div class="verse"> For all his ordinances were before me. I didn't put away his statutes from me.</div>
+</div>
+<div class="row">
+<div class="number">23</div><div class="verse"> I was also blameless with him. I kept myself from my iniquity.</div>
+</div>
+<div class="row">
+<div class="number">24</div><div class="verse"> Therefore Yahweh has rewarded me according to my righteousness, according to the cleanness of my hands in his eyesight.</div>
+</div>
+<div class="row">
+<div class="number">25</div><div class="verse"> With the merciful you will show yourself merciful. With the perfect man, you will show yourself perfect.</div>
+</div>
+<div class="row">
+<div class="number">26</div><div class="verse"> With the pure, you will show yourself pure. With the crooked you will show yourself shrewd.</div>
+</div>
+<div class="row">
+<div class="number">27</div><div class="verse"> For you will save the afflicted people, but the haughty eyes you will bring down.</div>
+</div>
+<div class="row">
+<div class="number">28</div><div class="verse"> For you will light my lamp, Yahweh. My God will light up my darkness.</div>
+</div>
+<div class="row">
+<div class="number">29</div><div class="verse"> For by you, I advance through a troop. By my God, I leap over a wall.</div>
+</div>
+<div class="row">
+<div class="number">30</div><div class="verse"> As for God, his way is perfect. The word of Yahweh is tried. He is a shield to all those who take refuge in him.</div>
+</div>
+<div class="row">
+<div class="number">31</div><div class="verse"> For who is God, except Yahweh? Who is a rock, besides our God,</div>
+</div>
+<div class="row">
+<div class="number">32</div><div class="verse"> the God who arms me with strength, and makes my way perfect?</div>
+</div>
+<div class="row">
+<div class="number">33</div><div class="verse"> He makes my feet like deer's feet, and sets me on my high places.</div>
+</div>
+<div class="row">
+<div class="number">34</div><div class="verse"> He teaches my hands to war, so that my arms bend a bow of bronze.</div>
+</div>
+<div class="row">
+<div class="number">35</div><div class="verse"> You have also given me the shield of your salvation. Your right hand sustains me. Your gentleness has made me great.</div>
+</div>
+<div class="row">
+<div class="number">36</div><div class="verse"> You have enlarged my steps under me, My feet have not slipped.</div>
+</div>
+<div class="row">
+<div class="number">37</div><div class="verse"> I will pursue my enemies, and overtake them. Neither will I turn again until they are consumed.</div>
+</div>
+<div class="row">
+<div class="number">38</div><div class="verse"> I will strike them through, so that they will not be able to rise. They shall fall under my feet.</div>
+</div>
+<div class="row">
+<div class="number">39</div><div class="verse"> For you have girded me with strength to the battle. You have subdued under me those who rose up against me.</div>
+</div>
+<div class="row">
+<div class="number">40</div><div class="verse"> You have also made my enemies turn their backs to me, that I might cut off those who hate me.</div>
+</div>
+<div class="row">
+<div class="number">41</div><div class="verse"> They cried, but there was none to save; even to Yahweh, but he didn't answer them.</div>
+</div>
+<div class="row">
+<div class="number">42</div><div class="verse"> Then I beat them small as the dust before the wind. I cast them out as the mire of the streets.</div>
+</div>
+<div class="row">
+<div class="number">43</div><div class="verse"> You have delivered me from the strivings of the people. You have made me the head of the nations. A people whom I have not known shall serve me.</div>
+</div>
+<div class="row">
+<div class="number">44</div><div class="verse"> As soon as they hear of me they shall obey me. The foreigners shall submit themselves to me.</div>
+</div>
+<div class="row">
+<div class="number">45</div><div class="verse"> The foreigners shall fade away, and shall come trembling out of their close places.</div>
+</div>
+<div class="row">
+<div class="number">46</div><div class="verse"> Yahweh lives; and blessed be my rock. Exalted be the God of my salvation,</div>
+</div>
+<div class="row">
+<div class="number">47</div><div class="verse"> even the God who executes vengeance for me, and subdues peoples under me.</div>
+</div>
+<div class="row">
+<div class="number">48</div><div class="verse"> He rescues me from my enemies. Yes, you lift me up above those who rise up against me. You deliver me from the violent man.</div>
+</div>
+<div class="row">
+<div class="number">49</div><div class="verse"> Therefore I will give thanks to you, Yahweh, among the nations, and will sing praises to your name.</div>
+</div>
+<div class="row">
+<div class="number">50</div><div class="verse"> He gives great deliverance to his king, and shows loving kindness to his anointed, to David and to his seed, forevermore.</div>
+</div>
+</div>

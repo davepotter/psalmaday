@@ -1,0 +1,24 @@
+<h3>Psalm 14</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [For the Chief Musician. By David.] The fool has said in his heart, "There is no God." They are corrupt. They have done abominable works. There is none who does good.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Yahweh looked down from heaven on the children of men, to see if there were any who did understand, who did seek after God.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> They have all gone aside. They have together become corrupt. There is none who does good, no, not one.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Have all the workers of iniquity no knowledge, who eat up my people as they eat bread, and don't call on Yahweh?</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> There they were in great fear, for God is in the generation of the righteous.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> You frustrate the plan of the poor, because Yahweh is his refuge.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> Oh that the salvation of Israel would come out of Zion! When Yahweh restores the fortunes of his people, then Jacob shall rejoice, and Israel shall be glad.</div>
+</div>
+</div>

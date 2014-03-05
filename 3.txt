@@ -1,0 +1,27 @@
+<h3>Psalm 3</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [A Psalm by David, when he fled from Absalom his son.] Yahweh, how my adversaries have increased! Many are those who rise up against me.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Many there are who say of my soul, "There is no help for him in God." Selah.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> But you, Yahweh, are a shield around me, my glory, and the one who lifts up my head.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> I cry to Yahweh with my voice, and he answers me out of his holy hill. Selah.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> I laid myself down and slept. I awakened; for Yahweh sustains me.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> I will not be afraid of tens of thousands of people who have set themselves against me on every side.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> Arise, Yahweh! Save me, my God! For you have struck all of my enemies on the cheek bone. You have broken the teeth of the wicked.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> Salvation belongs to Yahweh. Your blessing be on your people. Selah.</div>
+</div>
+</div>

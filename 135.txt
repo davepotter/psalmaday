@@ -1,0 +1,66 @@
+<h3>Psalm 135</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> Praise Yah! Praise the name of Yahweh! Praise him, you servants of Yahweh,</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> you who stand in the house of Yahweh, in the courts of our God's house.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> Praise Yah, for Yahweh is good. Sing praises to his name, for that is pleasant.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> For Yah has chosen Jacob for himself; Israel for his own possession.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> For I know that Yahweh is great, that our Lord is above all gods.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> Whatever Yahweh pleased, that he has done, in heaven and in earth, in the seas and in all deeps;</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> who causes the clouds to rise from the ends of the earth; who makes lightnings with the rain; who brings forth the wind out of his treasuries;</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> Who struck the firstborn of Egypt, both of man and animal;</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> Who sent signs and wonders into the midst of you, Egypt, on Pharaoh, and on all his servants;</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> who struck many nations, and killed mighty kings,</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> Sihon king of the Amorites, Og king of Bashan, and all the kingdoms of Canaan,</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> and gave their land for a heritage, a heritage to Israel, his people.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> Your name, Yahweh, endures forever; your renown, Yahweh, throughout all generations.</div>
+</div>
+<div class="row">
+<div class="number">14</div><div class="verse"> For Yahweh will judge his people, and have compassion on his servants.</div>
+</div>
+<div class="row">
+<div class="number">15</div><div class="verse"> The idols of the nations are silver and gold, the work of men's hands.</div>
+</div>
+<div class="row">
+<div class="number">16</div><div class="verse"> They have mouths, but they can't speak. They have eyes, but they can't see.</div>
+</div>
+<div class="row">
+<div class="number">17</div><div class="verse"> They have ears, but they can't hear; neither is there any breath in their mouths.</div>
+</div>
+<div class="row">
+<div class="number">18</div><div class="verse"> Those who make them will be like them; yes, everyone who trusts in them.</div>
+</div>
+<div class="row">
+<div class="number">19</div><div class="verse"> House of Israel, praise Yahweh! House of Aaron, praise Yahweh!</div>
+</div>
+<div class="row">
+<div class="number">20</div><div class="verse"> House of Levi, praise Yahweh! You who fear Yahweh, praise Yahweh!</div>
+</div>
+<div class="row">
+<div class="number">21</div><div class="verse"> Blessed be Yahweh from Zion, Who dwells at Jerusalem. Praise Yah!</div>
+</div>
+</div>

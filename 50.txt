@@ -1,0 +1,72 @@
+<h3>Psalm 50</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [A Psalm by Asaph.] The Mighty One, God, Yahweh, speaks, and calls the earth from sunrise to sunset.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Out of Zion, the perfection of beauty, God shines forth.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> Our God comes, and does not keep silent. A fire devours before him. It is very stormy around him.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> He calls to the heavens above, to the earth, that he may judge his people:</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> "Gather my saints together to me, those who have made a covenant with me by sacrifice."</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> The heavens shall declare his righteousness, for God himself is judge. Selah.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> "Hear, my people, and I will speak; Israel, and I will testify against you. I am God, your God.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> I don't rebuke you for your sacrifices. Your burnt offerings are continually before me.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> I have no need for a bull from your stall, nor male goats from your pens.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> For every animal of the forest is mine, and the livestock on a thousand hills.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> I know all the birds of the mountains. The wild animals of the field are mine.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> If I were hungry, I would not tell you, for the world is mine, and all that is in it.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> Will I eat the flesh of bulls, or drink the blood of goats?</div>
+</div>
+<div class="row">
+<div class="number">14</div><div class="verse"> Offer to God the sacrifice of thanksgiving. Pay your vows to the Most High.</div>
+</div>
+<div class="row">
+<div class="number">15</div><div class="verse"> Call on me in the day of trouble. I will deliver you, and you will honor me."</div>
+</div>
+<div class="row">
+<div class="number">16</div><div class="verse"> But to the wicked God says, "What right do you have to declare my statutes, that you have taken my covenant on your lips,</div>
+</div>
+<div class="row">
+<div class="number">17</div><div class="verse"> seeing you hate instruction, and throw my words behind you?</div>
+</div>
+<div class="row">
+<div class="number">18</div><div class="verse"> When you saw a thief, you consented with him, and have participated with adulterers.</div>
+</div>
+<div class="row">
+<div class="number">19</div><div class="verse"> "You give your mouth to evil. Your tongue frames deceit.</div>
+</div>
+<div class="row">
+<div class="number">20</div><div class="verse"> You sit and speak against your brother. You slander your own mother's son.</div>
+</div>
+<div class="row">
+<div class="number">21</div><div class="verse"> You have done these things, and I kept silent. You thought that the I was just like you. I will rebuke you, and accuse you in front of your eyes.</div>
+</div>
+<div class="row">
+<div class="number">22</div><div class="verse"> "Now consider this, you who forget God, lest I tear you into pieces, and there be none to deliver.</div>
+</div>
+<div class="row">
+<div class="number">23</div><div class="verse"> Whoever offers the sacrifice of thanksgiving glorifies me, and prepares his way so that I will show God's salvation to him."</div>
+</div>
+</div>

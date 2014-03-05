@@ -1,0 +1,147 @@
+<h3>Psalm 106</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> Praise Yahweh! Give thanks to Yahweh, for he is good, for his loving kindness endures forever.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Who can utter the mighty acts of Yahweh, or fully declare all his praise?</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> Blessed are those who keep justice. Blessed is one who does what is right at all times.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Remember me, Yahweh, with the favor that you show to your people. Visit me with your salvation,</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> that I may see the prosperity of your chosen, that I may rejoice in the gladness of your nation, that I may glory with your inheritance.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> We have sinned with our fathers. We have committed iniquity. We have done wickedly.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> Our fathers didn't understand your wonders in Egypt. They didn't remember the multitude of your loving kindnesses, but were rebellious at the sea, even at the Red Sea{or, Sea of Reeds}.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> Nevertheless he saved them for his name's sake, that he might make his mighty power known.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> He rebuked the Red Sea{or, Sea of Reeds} also, and it was dried up; so he led them through the depths, as through a desert.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> He saved them from the hand of him who hated them, and redeemed them from the hand of the enemy.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> The waters covered their adversaries. There was not one of them left.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> Then they believed his words. They sang his praise.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> They soon forgot his works. They didn't wait for his counsel,</div>
+</div>
+<div class="row">
+<div class="number">14</div><div class="verse"> but gave in to craving in the desert, and tested God in the wasteland.</div>
+</div>
+<div class="row">
+<div class="number">15</div><div class="verse"> He gave them their request, but sent leanness into their soul.</div>
+</div>
+<div class="row">
+<div class="number">16</div><div class="verse"> They envied Moses also in the camp, and Aaron, Yahweh's saint.</div>
+</div>
+<div class="row">
+<div class="number">17</div><div class="verse"> The earth opened and swallowed up Dathan, and covered the company of Abiram.</div>
+</div>
+<div class="row">
+<div class="number">18</div><div class="verse"> A fire was kindled in their company. The flame burned up the wicked.</div>
+</div>
+<div class="row">
+<div class="number">19</div><div class="verse"> They made a calf in Horeb, and worshiped a molten image.</div>
+</div>
+<div class="row">
+<div class="number">20</div><div class="verse"> Thus they exchanged their glory for an image of a bull that eats grass.</div>
+</div>
+<div class="row">
+<div class="number">21</div><div class="verse"> They forgot God, their Savior, who had done great things in Egypt,</div>
+</div>
+<div class="row">
+<div class="number">22</div><div class="verse"> Wondrous works in the land of Ham, and awesome things by the Red Sea{or, Sea of Reeds}.</div>
+</div>
+<div class="row">
+<div class="number">23</div><div class="verse"> Therefore he said that he would destroy them, had Moses, his chosen, not stood before him in the breach, to turn away his wrath, so that he wouldn't destroy them.</div>
+</div>
+<div class="row">
+<div class="number">24</div><div class="verse"> Yes, they despised the pleasant land. They didn't believe his word,</div>
+</div>
+<div class="row">
+<div class="number">25</div><div class="verse"> but murmured in their tents, and didn't listen to Yahweh's voice.</div>
+</div>
+<div class="row">
+<div class="number">26</div><div class="verse"> Therefore he swore to them that he would overthrow them in the wilderness,</div>
+</div>
+<div class="row">
+<div class="number">27</div><div class="verse"> that he would overthrow their seed among the nations, and scatter them in the lands.</div>
+</div>
+<div class="row">
+<div class="number">28</div><div class="verse"> They joined themselves also to Baal Peor, and ate the sacrifices of the dead.</div>
+</div>
+<div class="row">
+<div class="number">29</div><div class="verse"> Thus they provoked him to anger with their deeds. The plague broke in on them.</div>
+</div>
+<div class="row">
+<div class="number">30</div><div class="verse"> Then Phinehas stood up, and executed judgment, so the plague was stopped.</div>
+</div>
+<div class="row">
+<div class="number">31</div><div class="verse"> That was credited to him for righteousness, for all generations to come.</div>
+</div>
+<div class="row">
+<div class="number">32</div><div class="verse"> They angered him also at the waters of Meribah, so that Moses was troubled for their sakes;</div>
+</div>
+<div class="row">
+<div class="number">33</div><div class="verse"> because they were rebellious against his spirit, he spoke rashly with his lips.</div>
+</div>
+<div class="row">
+<div class="number">34</div><div class="verse"> They didn't destroy the peoples, as Yahweh commanded them,</div>
+</div>
+<div class="row">
+<div class="number">35</div><div class="verse"> but mixed themselves with the nations, and learned their works.</div>
+</div>
+<div class="row">
+<div class="number">36</div><div class="verse"> They served their idols, which became a snare to them.</div>
+</div>
+<div class="row">
+<div class="number">37</div><div class="verse"> Yes, they sacrificed their sons and their daughters to demons.</div>
+</div>
+<div class="row">
+<div class="number">38</div><div class="verse"> They shed innocent blood, even the blood of their sons and of their daughters, whom they sacrificed to the idols of Canaan. The land was polluted with blood.</div>
+</div>
+<div class="row">
+<div class="number">39</div><div class="verse"> Thus were they defiled with their works, and prostituted themselves in their deeds.</div>
+</div>
+<div class="row">
+<div class="number">40</div><div class="verse"> Therefore Yahweh burned with anger against his people. He abhorred his inheritance.</div>
+</div>
+<div class="row">
+<div class="number">41</div><div class="verse"> He gave them into the hand of the nations. Those who hated them ruled over them.</div>
+</div>
+<div class="row">
+<div class="number">42</div><div class="verse"> Their enemies also oppressed them. They were brought into subjection under their hand.</div>
+</div>
+<div class="row">
+<div class="number">43</div><div class="verse"> Many times he delivered them, but they were rebellious in their counsel, and were brought low in their iniquity.</div>
+</div>
+<div class="row">
+<div class="number">44</div><div class="verse"> Nevertheless he regarded their distress, when he heard their cry.</div>
+</div>
+<div class="row">
+<div class="number">45</div><div class="verse"> He remembered for them his covenant, and repented according to the multitude of his loving kindnesses.</div>
+</div>
+<div class="row">
+<div class="number">46</div><div class="verse"> He made them also to be pitied by all those who carried them captive.</div>
+</div>
+<div class="row">
+<div class="number">47</div><div class="verse"> Save us, Yahweh, our God, gather us from among the nations, to give thanks to your holy name, to triumph in your praise!</div>
+</div>
+<div class="row">
+<div class="number">48</div><div class="verse"> Blessed be Yahweh, the God of Israel, from everlasting even to everlasting! Let all the people say, "Amen." Praise Yah!</div>
+</div>
+</div>

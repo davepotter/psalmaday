@@ -1,0 +1,30 @@
+<h3>Psalm 122</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [A Song of Ascents. By David.] I was glad when they said to me, "Let's go to Yahweh's house!"</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Our feet are standing within your gates, Jerusalem;</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> Jerusalem, that is built as a city that is compact together;</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> where the tribes go up, even Yah's tribes, according to an ordinance for Israel, to give thanks to the name of Yahweh.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> For there are set thrones for judgment, the thrones of David's house.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> Pray for the peace of Jerusalem. Those who love you will prosper.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> Peace be within your walls, and prosperity within your palaces.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> For my brothers' and companions' sakes, I will now say, "Peace be within you."</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> For the sake of the house of Yahweh our God, I will seek your good.</div>
+</div>
+</div>

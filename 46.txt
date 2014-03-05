@@ -1,0 +1,36 @@
+<h3>Psalm 46</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [For the Chief Musician. By the sons of Korah. According to Alamoth.Alamoth is a musical term.] God is our refuge and strength, a very present help in trouble.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Therefore we won't be afraid, though the earth changes, though the mountains are shaken into the heart of the seas;</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> though its waters roar and are troubled, though the mountains tremble with their swelling. Selah.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> There is a river, the streams of which make the city of God glad, the holy place of the tents of the Most High.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> God is in her midst. She shall not be moved. God will help her at dawn.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> The nations raged. The kingdoms were moved. He lifted his voice, and the earth melted.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> Yahweh of Armies is with us. The God of Jacob is our refuge. Selah.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> Come, see Yahweh's works, what desolations he has made in the earth.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> He makes wars cease to the end of the earth. He breaks the bow, and shatters the spear. He burns the chariots in the fire.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> "Be still, and know that I am God. I will be exalted among the nations. I will be exalted in the earth."</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> Yahweh of Armies is with us. The God of Jacob is our refuge. Selah.</div>
+</div>
+</div>

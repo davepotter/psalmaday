@@ -1,0 +1,42 @@
+<h3>Psalm 140</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [For the Chief Musician. A Psalm by David.] Deliver me, Yahweh, from the evil man. Preserve me from the violent man;</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> those who devise mischief in their hearts. They continually gather themselves together for war.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> They have sharpened their tongues like a serpent. Viper's poison is under their lips. Selah.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Yahweh, keep me from the hands of the wicked. Preserve me from the violent men who have determined to trip my feet.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> The proud have hidden a snare for me, they have spread the cords of a net by the path. They have set traps for me. Selah.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> I said to Yahweh, "You are my God." Listen to the cry of my petitions, Yahweh.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> Yahweh, the Lord, the strength of my salvation, you have covered my head in the day of battle.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> Yahweh, don't grant the desires of the wicked. Don't let their evil plans succeed, or they will become proud. Selah.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> As for the head of those who surround me, let the mischief of their own lips cover them.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> Let burning coals fall on them. Let them be thrown into the fire, into miry pits, from where they never rise.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> An evil speaker won't be established in the earth. Evil will hunt the violent man to overthrow him.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> I know that Yahweh will maintain the cause of the afflicted, and justice for the needy.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> Surely the righteous will give thanks to your name. The upright will dwell in your presence.</div>
+</div>
+</div>

@@ -1,0 +1,36 @@
+<h3>Psalm 29</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [A Psalm by David.] Ascribe to Yahweh, you sons of the mighty, ascribe to Yahweh glory and strength.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Ascribe to Yahweh the glory due to his name. Worship Yahweh in holy array.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> Yahweh's voice is on the waters. The God of glory thunders, even Yahweh on many waters.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Yahweh's voice is powerful. Yahweh's voice is full of majesty.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> The voice of Yahweh breaks the cedars. Yes, Yahweh breaks in pieces the cedars of Lebanon.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> He makes them also to skip like a calf; Lebanon and Sirion like a young, wild ox.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> Yahweh's voice strikes with flashes of lightning.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> Yahweh's voice shakes the wilderness. Yahweh shakes the wilderness of Kadesh.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> Yahweh's voice makes the deer calve, and strips the forests bare. In his temple everything says, "Glory!"</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> Yahweh sat enthroned at the Flood. Yes, Yahweh sits as King forever.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> Yahweh will give strength to his people. Yahweh will bless his people with peace.</div>
+</div>
+</div>

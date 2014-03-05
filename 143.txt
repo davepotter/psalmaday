@@ -1,0 +1,39 @@
+<h3>Psalm 143</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [A Psalm by David.] Hear my prayer, Yahweh. Listen to my petitions. In your faithfulness and righteousness, relieve me.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Don't enter into judgment with your servant, for in your sight no man living is righteous.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> For the enemy pursues my soul. He has struck my life down to the ground. He has made me live in dark places, as those who have been long dead.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Therefore my spirit is overwhelmed within me. My heart within me is desolate.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> I remember the days of old. I meditate on all your doings. I contemplate the work of your hands.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> I spread forth my hands to you. My soul thirsts for you, like a parched land. Selah.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> Hurry to answer me, Yahweh. My spirit fails. Don't hide your face from me, so that I don't become like those who go down into the pit.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> Cause me to hear your loving kindness in the morning, for I trust in you. Cause me to know the way in which I should walk, for I lift up my soul to you.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> Deliver me, Yahweh, from my enemies. I flee to you to hide me.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> Teach me to do your will, for you are my God. Your Spirit is good. Lead me in the land of uprightness.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> Revive me, Yahweh, for your name's sake. In your righteousness, bring my soul out of trouble.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> In your loving kindness, cut off my enemies, and destroy all those who afflict my soul, For I am your servant.</div>
+</div>
+</div>

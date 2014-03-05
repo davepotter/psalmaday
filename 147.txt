@@ -1,0 +1,63 @@
+<h3>Psalm 147</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> Praise Yah, for it is good to sing praises to our God; for it is pleasant and fitting to praise him.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Yahweh builds up Jerusalem. He gathers together the outcasts of Israel.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> He heals the broken in heart, and binds up their wounds.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> He counts the number of the stars. He calls them all by their names.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> Great is our Lord, and mighty in power. His understanding is infinite.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> Yahweh upholds the humble. He brings the wicked down to the ground.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> Sing to Yahweh with thanksgiving. Sing praises on the harp to our God,</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> who covers the sky with clouds, who prepares rain for the earth, who makes grass grow on the mountains.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> He provides food for the livestock, and for the young ravens when they call.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> He doesn't delight in the strength of the horse. He takes no pleasure in the legs of a man.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> Yahweh takes pleasure in those who fear him, in those who hope in his loving kindness.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> Praise Yahweh, Jerusalem! Praise your God, Zion!</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> For he has strengthened the bars of your gates. He has blessed your children within you.</div>
+</div>
+<div class="row">
+<div class="number">14</div><div class="verse"> He makes peace in your borders. He fills you with the finest of the wheat.</div>
+</div>
+<div class="row">
+<div class="number">15</div><div class="verse"> He sends out his commandment to the earth. His word runs very swiftly.</div>
+</div>
+<div class="row">
+<div class="number">16</div><div class="verse"> He gives snow like wool, and scatters frost like ashes.</div>
+</div>
+<div class="row">
+<div class="number">17</div><div class="verse"> He hurls down his hail like pebbles. Who can stand before his cold?</div>
+</div>
+<div class="row">
+<div class="number">18</div><div class="verse"> He sends out his word, and melts them. He causes his wind to blow, and the waters flow.</div>
+</div>
+<div class="row">
+<div class="number">19</div><div class="verse"> He shows his word to Jacob; his statutes and his ordinances to Israel.</div>
+</div>
+<div class="row">
+<div class="number">20</div><div class="verse"> He has not done this for just any nation. They don't know his ordinances. Praise Yah!</div>
+</div>
+</div>

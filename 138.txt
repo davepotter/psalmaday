@@ -1,0 +1,27 @@
+<h3>Psalm 138</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [By David.] I will give you thanks with my whole heart. Before the gods{The word elohim, used here, usually means "God," but can also mean "gods," "princes," or "angels."}, I will sing praises to you.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> I will bow down toward your holy temple, and give thanks to your Name for your loving kindness and for your truth; for you have exalted your Name and your Word above all.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> In the day that I called, you answered me. You encouraged me with strength in my soul.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> All the kings of the earth will give you thanks, Yahweh, for they have heard the words of your mouth.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> Yes, they will sing of the ways of Yahweh; for great is Yahweh's glory.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> For though Yahweh is high, yet he looks after the lowly; but the proud, he knows from afar.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> Though I walk in the midst of trouble, you will revive me. You will stretch forth your hand against the wrath of my enemies. Your right hand will save me.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> Yahweh will fulfill that which concerns me; your loving kindness, Yahweh, endures forever. Don't forsake the works of your own hands.</div>
+</div>
+</div>

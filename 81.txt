@@ -1,0 +1,51 @@
+<h3>Psalm 81</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [For the Chief Musician. On an instrument of Gath. By Asaph.] Sing aloud to God, our strength! Make a joyful shout to the God of Jacob!</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Raise a song, and bring here the tambourine, the pleasant lyre with the harp.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> Blow the trumpet at the New Moon, at the full moon, on our feast day.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> For it is a statute for Israel, an ordinance of the God of Jacob.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> He appointed it in Joseph for a testimony, when he went out over the land of Egypt, I heard a language that I didn't know.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> "I removed his shoulder from the burden. His hands were freed from the basket.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> You called in trouble, and I delivered you. I answered you in the secret place of thunder. I tested you at the waters of Meribah." Selah.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> "Hear, my people, and I will testify to you, Israel, if you would listen to me!</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> There shall be no strange god in you, neither shall you worship any foreign god.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> I am Yahweh, your God, who brought you up out of the land of Egypt. Open your mouth wide, and I will fill it.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> But my people didn't listen to my voice. Israel desired none of me.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> So I let them go after the stubbornness of their hearts, that they might walk in their own counsels.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> Oh that my people would listen to me, that Israel would walk in my ways!</div>
+</div>
+<div class="row">
+<div class="number">14</div><div class="verse"> I would soon subdue their enemies, and turn my hand against their adversaries.</div>
+</div>
+<div class="row">
+<div class="number">15</div><div class="verse"> The haters of Yahweh would cringe before him, and their punishment would last forever.</div>
+</div>
+<div class="row">
+<div class="number">16</div><div class="verse"> But he would have also fed them with the finest of the wheat. I will satisfy you with honey out of the rock."</div>
+</div>
+</div>

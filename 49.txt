@@ -1,0 +1,63 @@
+<h3>Psalm 49</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [For the Chief Musician. A Psalm by the sons of Korah.] Hear this, all you peoples. Listen, all you inhabitants of the world,</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> both low and high, rich and poor together.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> My mouth will speak words of wisdom. My heart shall utter understanding.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> I will incline my ear to a proverb. I will open my riddle on the harp.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> Why should I fear in the days of evil, when iniquity at my heels surrounds me?</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> Those who trust in their wealth, and boast in the multitude of their riches--</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> none of them can by any means redeem his brother, nor give God a ransom for him.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> For the redemption of their life is costly, no payment is ever enough,</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> That he should live on forever, that he should not see corruption.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> For he sees that wise men die; likewise the fool and the senseless perish, and leave their wealth to others.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> Their inward thought is that their houses will endure forever, and their dwelling places to all generations. They name their lands after themselves.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> But man, despite his riches, doesn't endure. He is like the animals that perish.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> This is the destiny of those who are foolish, and of those who approve their sayings. Selah.</div>
+</div>
+<div class="row">
+<div class="number">14</div><div class="verse"> They are appointed as a flock for Sheol. Death shall be their shepherd. The upright shall have dominion over them in the morning. Their beauty shall decay in Sheol, far from their mansion.</div>
+</div>
+<div class="row">
+<div class="number">15</div><div class="verse"> But God will redeem my soul from the power of Sheol, for he will receive me. Selah.</div>
+</div>
+<div class="row">
+<div class="number">16</div><div class="verse"> Don't be afraid when a man is made rich, when the glory of his house is increased.</div>
+</div>
+<div class="row">
+<div class="number">17</div><div class="verse"> For when he dies he shall carry nothing away. His glory shall not descend after him.</div>
+</div>
+<div class="row">
+<div class="number">18</div><div class="verse"> Though while he lived he blessed his soul-- and men praise you when you do well for yourself--</div>
+</div>
+<div class="row">
+<div class="number">19</div><div class="verse"> he shall go to the generation of his fathers. They shall never see the light.</div>
+</div>
+<div class="row">
+<div class="number">20</div><div class="verse"> A man who has riches without understanding, is like the animals that perish.</div>
+</div>
+</div>

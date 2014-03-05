@@ -1,0 +1,36 @@
+<h3>Psalm 42</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [For the Chief Musician. A contemplation by the sons of Korah.] As the deer pants for the water brooks, so my soul pants after you, God.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> My soul thirsts for God, for the living God. When shall I come and appear before God?</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> My tears have been my food day and night, while they continually ask me, "Where is your God?"</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> These things I remember, and pour out my soul within me, how I used to go with the crowd, and led them to the house of God, with the voice of joy and praise, a multitude keeping a holy day.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> Why are you in despair, my soul? Why are you disturbed within me? Hope in God! For I shall still praise him for the saving help of his presence.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> My God, my soul is in despair within me. Therefore I remember you from the land of the Jordan, the heights of Hermon, from the hill Mizar.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> Deep calls to deep at the noise of your waterfalls. All your waves and your billows have swept over me.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> Yahweh will command his loving kindness in the daytime. In the night his song shall be with me: a prayer to the God of my life.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> I will ask God, my rock, "Why have you forgotten me? Why do I go mourning because of the oppression of the enemy?"</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> As with a sword in my bones, my adversaries reproach me, while they continually ask me, "Where is your God?"</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> Why are you in despair, my soul? Why are you disturbed within me? Hope in God! For I shall still praise him, the saving help of my countenance, and my God.</div>
+</div>
+</div>

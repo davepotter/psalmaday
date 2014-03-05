@@ -1,0 +1,30 @@
+<h3>Psalm 28</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [By David.] To you, Yahweh, I call. My rock, don't be deaf to me; lest, if you are silent to me, I would become like those who go down into the pit.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Hear the voice of my petitions, when I cry to you, when I lift up my hands toward your Most Holy Place.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> Don't draw me away with the wicked, with the workers of iniquity who speak peace with their neighbors, but mischief is in their hearts.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Give them according to their work, and according to the wickedness of their doings. Give them according to the operation of their hands. Bring back on them what they deserve.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> Because they don't regard the works of Yahweh, nor the operation of his hands, he will break them down and not build them up.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> Blessed be Yahweh, because he has heard the voice of my petitions.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> Yahweh is my strength and my shield. My heart has trusted in him, and I am helped. Therefore my heart greatly rejoices. With my song I will thank him.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> Yahweh is their strength. He is a stronghold of salvation to his anointed.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> Save your people, and bless your inheritance. Be their shepherd also, and bear them up forever.</div>
+</div>
+</div>

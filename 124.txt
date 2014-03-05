@@ -1,0 +1,27 @@
+<h3>Psalm 124</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [A Song of Ascents. By David.] If it had not been Yahweh who was on our side, let Israel now say,</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> if it had not been Yahweh who was on our side, when men rose up against us;</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> then they would have swallowed us up alive, when their wrath was kindled against us;</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> then the waters would have overwhelmed us, the stream would have gone over our soul;</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> then the proud waters would have gone over our soul.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> Blessed be Yahweh, who has not given us as a prey to their teeth.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> Our soul has escaped like a bird out of the fowler's snare. The snare is broken, and we have escaped.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> Our help is in the name of Yahweh, who made heaven and earth.</div>
+</div>
+</div>

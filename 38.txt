@@ -1,0 +1,69 @@
+<h3>Psalm 38</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [A Psalm by David, for a memorial.] Yahweh, don't rebuke me in your wrath, neither chasten me in your hot displeasure.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> For your arrows have pierced me, your hand presses hard on me.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> There is no soundness in my flesh because of your indignation, neither is there any health in my bones because of my sin.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> For my iniquities have gone over my head. As a heavy burden, they are too heavy for me.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> My wounds are loathsome and corrupt, because of my foolishness.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> I am pained and bowed down greatly. I go mourning all day long.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> For my waist is filled with burning. There is no soundness in my flesh.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> I am faint and severely bruised. I have groaned by reason of the anguish of my heart.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> Lord, all my desire is before you. My groaning is not hidden from you.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> My heart throbs. My strength fails me. As for the light of my eyes, it has also left me.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> My lovers and my friends stand aloof from my plague. My kinsmen stand far away.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> They also who seek after my life lay snares. Those who seek my hurt speak mischievous things, and meditate deceits all day long.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> But I, as a deaf man, don't hear. I am as a mute man who doesn't open his mouth.</div>
+</div>
+<div class="row">
+<div class="number">14</div><div class="verse"> Yes, I am as a man who doesn't hear, in whose mouth are no reproofs.</div>
+</div>
+<div class="row">
+<div class="number">15</div><div class="verse"> For in you, Yahweh, do I hope. You will answer, Lord my God.</div>
+</div>
+<div class="row">
+<div class="number">16</div><div class="verse"> For I said, "Don't let them gloat over me, or exalt themselves over me when my foot slips."</div>
+</div>
+<div class="row">
+<div class="number">17</div><div class="verse"> For I am ready to fall. My pain is continually before me.</div>
+</div>
+<div class="row">
+<div class="number">18</div><div class="verse"> For I will declare my iniquity. I will be sorry for my sin.</div>
+</div>
+<div class="row">
+<div class="number">19</div><div class="verse"> But my enemies are vigorous and many. Those who hate me without reason are numerous.</div>
+</div>
+<div class="row">
+<div class="number">20</div><div class="verse"> They who also render evil for good are adversaries to me, because I follow what is good.</div>
+</div>
+<div class="row">
+<div class="number">21</div><div class="verse"> Don't forsake me, Yahweh. My God, don't be far from me.</div>
+</div>
+<div class="row">
+<div class="number">22</div><div class="verse"> Hurry to help me, Lord, my salvation.</div>
+</div>
+</div>

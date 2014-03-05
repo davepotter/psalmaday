@@ -1,0 +1,24 @@
+<h3>Psalm 54</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [For the Chief Musician. On stringed instruments. A contemplation by David, when the Ziphites came and said to Saul, "Isn't David hiding himself among us?"] Save me, God, by your name. Vindicate me in your might.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Hear my prayer, God. Listen to the words of my mouth.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> For strangers have risen up against me. Violent men have sought after my soul. They haven't set God before them. Selah.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Behold, God is my helper. The Lord is the one who sustains my soul.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> He will repay the evil to my enemies. Destroy them in your truth.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> With a free will offering, I will sacrifice to you. I will give thanks to your name, Yahweh, for it is good.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> For he has delivered me out of all trouble. My eye has seen triumph over my enemies.</div>
+</div>
+</div>

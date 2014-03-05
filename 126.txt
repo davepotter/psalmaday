@@ -1,0 +1,21 @@
+<h3>Psalm 126</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [A Song of Ascents.] When Yahweh brought back those who returned to Zion, we were like those who dream.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Then our mouth was filled with laughter, and our tongue with singing. Then they said among the nations, "Yahweh has done great things for them."</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> Yahweh has done great things for us, and we are glad.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Restore our fortunes again, Yahweh, like the streams in the Negev.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> Those who sow in tears will reap in joy.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> He who goes out weeping, carrying seed for sowing, will certainly come again with joy, carrying his sheaves.</div>
+</div>
+</div>

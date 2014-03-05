@@ -1,0 +1,18 @@
+<h3>Psalm 125</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [A Song of Ascents.] Those who trust in Yahweh are as Mount Zion, which can't be moved, but remains forever.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> As the mountains surround Jerusalem, so Yahweh surrounds his people from this time forth and forevermore.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> For the scepter of wickedness won't remain over the allotment of the righteous; so that the righteous won't use their hands to do evil.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Do good, Yahweh, to those who are good, to those who are upright in their hearts.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> But as for those who turn aside to their crooked ways, Yahweh will lead them away with the workers of iniquity. Peace be on Israel.</div>
+</div>
+</div>

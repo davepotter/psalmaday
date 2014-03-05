@@ -1,0 +1,90 @@
+<h3>Psalm 118</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> Give thanks to Yahweh, for he is good, for his loving kindness endures forever.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Let Israel now say that his loving kindness endures forever.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> Let the house of Aaron now say that his loving kindness endures forever.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Now let those who fear Yahweh say that his loving kindness endures forever.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> Out of my distress, I called on Yah. Yah answered me with freedom.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> Yahweh is on my side. I will not be afraid. What can man do to me?</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> Yahweh is on my side among those who help me. Therefore I will look in triumph at those who hate me.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> It is better to take refuge in Yahweh, than to put confidence in man.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> It is better to take refuge in Yahweh, than to put confidence in princes.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> All the nations surrounded me, but in the name of Yahweh, I cut them off.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> They surrounded me, yes, they surrounded me. In the name of Yahweh I indeed cut them off.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> They surrounded me like bees. They are quenched like the burning thorns. In the name of Yahweh I cut them off.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> You pushed me back hard, to make me fall, but Yahweh helped me.</div>
+</div>
+<div class="row">
+<div class="number">14</div><div class="verse"> Yah is my strength and song. He has become my salvation.</div>
+</div>
+<div class="row">
+<div class="number">15</div><div class="verse"> The voice of rejoicing and salvation is in the tents of the righteous. "The right hand of Yahweh does valiantly.</div>
+</div>
+<div class="row">
+<div class="number">16</div><div class="verse"> The right hand of Yahweh is exalted! The right hand of Yahweh does valiantly!"</div>
+</div>
+<div class="row">
+<div class="number">17</div><div class="verse"> I will not die, but live, and declare Yah's works.</div>
+</div>
+<div class="row">
+<div class="number">18</div><div class="verse"> Yah has punished me severely, but he has not given me over to death.</div>
+</div>
+<div class="row">
+<div class="number">19</div><div class="verse"> Open to me the gates of righteousness. I will enter into them. I will give thanks to Yah.</div>
+</div>
+<div class="row">
+<div class="number">20</div><div class="verse"> This is the gate of Yahweh; the righteous will enter into it.</div>
+</div>
+<div class="row">
+<div class="number">21</div><div class="verse"> I will give thanks to you, for you have answered me, and have become my salvation.</div>
+</div>
+<div class="row">
+<div class="number">22</div><div class="verse"> The stone which the builders rejected has become the head of the corner.</div>
+</div>
+<div class="row">
+<div class="number">23</div><div class="verse"> This is Yahweh's doing. It is marvelous in our eyes.</div>
+</div>
+<div class="row">
+<div class="number">24</div><div class="verse"> This is the day that Yahweh has made. We will rejoice and be glad in it!</div>
+</div>
+<div class="row">
+<div class="number">25</div><div class="verse"> Save us now, we beg you, Yahweh! Yahweh, we beg you, send prosperity now.</div>
+</div>
+<div class="row">
+<div class="number">26</div><div class="verse"> Blessed is he who comes in the name of Yahweh! We have blessed you out of the house of Yahweh.</div>
+</div>
+<div class="row">
+<div class="number">27</div><div class="verse"> Yahweh is God, and he has given us light. Bind the sacrifice with cords, even to the horns of the altar.</div>
+</div>
+<div class="row">
+<div class="number">28</div><div class="verse"> You are my God, and I will give thanks to you. You are my God, I will exalt you.</div>
+</div>
+<div class="row">
+<div class="number">29</div><div class="verse"> Oh give thanks to Yahweh, for he is good, for his loving kindness endures forever.</div>
+</div>
+</div>

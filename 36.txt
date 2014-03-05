@@ -1,0 +1,39 @@
+<h3>Psalm 36</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [For the Chief Musician. By David, the servant of Yahweh.] An oracle is within my heart about the disobedience of the wicked: "There is no fear of God before his eyes."</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> For he flatters himself in his own eyes, too much to detect and hate his sin.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> The words of his mouth are iniquity and deceit. He has ceased to be wise and to do good.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> He plots iniquity on his bed. He sets himself in a way that is not good. He doesn't abhor evil.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> Your loving kindness, Yahweh, is in the heavens. Your faithfulness reaches to the skies.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> Your righteousness is like the mountains of God. Your judgments are like a great deep. Yahweh, you preserve man and animal.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> How precious is your loving kindness, God! The children of men take refuge under the shadow of your wings.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> They shall be abundantly satisfied with the abundance of your house. You will make them drink of the river of your pleasures.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> For with you is the spring of life. In your light shall we see light.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> Oh continue your loving kindness to those who know you, your righteousness to the upright in heart.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> Don't let the foot of pride come against me. Don't let the hand of the wicked drive me away.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> There the workers of iniquity are fallen. They are thrust down, and shall not be able to rise.</div>
+</div>
+</div>

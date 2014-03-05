@@ -1,0 +1,39 @@
+<h3>Psalm 76</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [For the Chief Musician. On stringed instruments. A Psalm by Asaph. A song.] In Judah, God is known. His name is great in Israel.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> His tabernacle is also in Salem; His dwelling place in Zion.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> There he broke the flaming arrows of the bow, the shield, and the sword, and the weapons of war. Selah.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Glorious are you, and excellent, more than mountains of game.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> Valiant men lie plundered, they have slept their last sleep. None of the men of war can lift their hands.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> At your rebuke, God of Jacob, both chariot and horse are cast into a deep sleep.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> You, even you, are to be feared. Who can stand in your sight when you are angry?</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> You pronounced judgment from heaven. The earth feared, and was silent,</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> when God arose to judgment, to save all the afflicted ones of the earth. Selah.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> Surely the wrath of man praises you. The survivors of your wrath are restrained.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> Make vows to Yahweh your God, and fulfill them! Let all of his neighbors bring presents to him who is to be feared.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> He will cut off the spirit of princes. He is feared by the kings of the earth.</div>
+</div>
+</div>

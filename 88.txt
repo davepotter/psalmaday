@@ -1,0 +1,57 @@
+<h3>Psalm 88</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [A Song. A Psalm by the sons of Korah. For the Chief Musician. To the tune of "The Suffering of Affliction." A contemplation by Heman, the Ezrahite.] Yahweh, the God of my salvation, I have cried day and night before you.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Let my prayer enter into your presence. Turn your ear to my cry.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> For my soul is full of troubles. My life draws near to Sheol.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> I am counted among those who go down into the pit. I am like a man who has no help,</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> set apart among the dead, like the slain who lie in the grave, whom you remember no more. They are cut off from your hand.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> You have laid me in the lowest pit, in the darkest depths.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> Your wrath lies heavily on me. You have afflicted me with all your waves. Selah.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> You have taken my friends from me. You have made me an abomination to them. I am confined, and I can't escape.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> My eyes are dim from grief. I have called on you daily, Yahweh. I have spread out my hands to you.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> Do you show wonders to the dead? Do the dead rise up and praise you? Selah.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> Is your loving kindness declared in the grave? Or your faithfulness in Destruction?</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> Are your wonders made known in the dark? Or your righteousness in the land of forgetfulness?</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> But to you, Yahweh, I have cried. In the morning, my prayer comes before you.</div>
+</div>
+<div class="row">
+<div class="number">14</div><div class="verse"> Yahweh, why do you reject my soul? Why do you hide your face from me?</div>
+</div>
+<div class="row">
+<div class="number">15</div><div class="verse"> I am afflicted and ready to die from my youth up. While I suffer your terrors, I am distracted.</div>
+</div>
+<div class="row">
+<div class="number">16</div><div class="verse"> Your fierce wrath has gone over me. Your terrors have cut me off.</div>
+</div>
+<div class="row">
+<div class="number">17</div><div class="verse"> They came around me like water all day long. They completely engulfed me.</div>
+</div>
+<div class="row">
+<div class="number">18</div><div class="verse"> You have put lover and friend far from me, and my friends into darkness.</div>
+</div>
+</div>

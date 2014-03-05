@@ -1,0 +1,42 @@
+<h3>Psalm 108</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [A Song. A Psalm by David.] My heart is steadfast, God. I will sing and I will make music with my soul.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Wake up, harp and lyre! I will wake up the dawn.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> I will give thanks to you, Yahweh, among the nations. I will sing praises to you among the peoples.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> For your loving kindness is great above the heavens. Your faithfulness reaches to the skies.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> Be exalted, God, above the heavens! Let your glory be over all the earth.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> That your beloved may be delivered, save with your right hand, and answer us.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> God has spoken from his sanctuary: "In triumph, I will divide Shechem, and measure out the valley of Succoth.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> Gilead is mine. Manasseh is mine. Ephraim also is my helmet. Judah is my scepter.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> Moab is my wash pot. I will toss my sandal on Edom. I will shout over Philistia."</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> Who will bring me into the fortified city? Who has led me to Edom?</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> Haven't you rejected us, God? You don't go forth, God, with our armies.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> Give us help against the enemy, for the help of man is vain.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> Through God, we will do valiantly. For it is he who will tread down our enemies.</div>
+</div>
+</div>

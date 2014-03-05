@@ -1,0 +1,12 @@
+<h3>Psalm 134</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [A Song of Ascents.] Look! Praise Yahweh, all you servants of Yahweh, who stand by night in Yahweh's house!</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Lift up your hands in the sanctuary. Praise Yahweh!</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> May Yahweh bless you from Zion; even he who made heaven and earth.</div>
+</div>
+</div>

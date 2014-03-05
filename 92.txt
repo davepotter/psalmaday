@@ -1,0 +1,48 @@
+<h3>Psalm 92</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [A Psalm. A song for the Sabbath day.] It is a good thing to give thanks to Yahweh, to sing praises to your name, Most High;</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> to proclaim your loving kindness in the morning, and your faithfulness every night,</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> with the ten-stringed lute, with the harp, and with the melody of the lyre.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> For you, Yahweh, have made me glad through your work. I will triumph in the works of your hands.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> How great are your works, Yahweh! Your thoughts are very deep.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> A senseless man doesn't know, neither does a fool understand this:</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> though the wicked spring up as the grass, and all the evildoers flourish, they will be destroyed forever.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> But you, Yahweh, are on high forevermore.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> For, behold, your enemies, Yahweh, for, behold, your enemies shall perish. All the evildoers will be scattered.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> But you have exalted my horn like that of the wild ox. I am anointed with fresh oil.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> My eye has also seen my enemies. My ears have heard of the wicked enemies who rise up against me.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> The righteous shall flourish like the palm tree. He will grow like a cedar in Lebanon.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> They are planted in Yahweh's house. They will flourish in our God's courts.</div>
+</div>
+<div class="row">
+<div class="number">14</div><div class="verse"> They will still bring forth fruit in old age. They will be full of sap and green,</div>
+</div>
+<div class="row">
+<div class="number">15</div><div class="verse"> to show that Yahweh is upright. He is my rock, and there is no unrighteousness in him.</div>
+</div>
+</div>

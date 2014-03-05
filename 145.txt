@@ -1,0 +1,66 @@
+<h3>Psalm 145</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [A praise psalm by David.This is an acrostic psalm, with every verse (including the second half of verse 13) starting with a consecutive letter of the Hebrew alphabet.] I will exalt you, my God, the King. I will praise your name forever and ever.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Every day I will praise you. I will extol your name forever and ever.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> Great is Yahweh, and greatly to be praised! His greatness is unsearchable.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> One generation will commend your works to another, and will declare your mighty acts.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> Of the glorious majesty of your honor, of your wondrous works, I will meditate.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> Men will speak of the might of your awesome acts. I will declare your greatness.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> They will utter the memory of your great goodness, and will sing of your righteousness.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> Yahweh is gracious, merciful, slow to anger, and of great loving kindness.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> Yahweh is good to all. His tender mercies are over all his works.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> All your works will give thanks to you, Yahweh. Your saints will extol you.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> They will speak of the glory of your kingdom, and talk about your power;</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> to make known to the sons of men his mighty acts, the glory of the majesty of his kingdom.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> Your kingdom is an everlasting kingdom. Your dominion endures throughout all generations. Yahweh is faithful in all his words, and loving in all his deeds.{Some manuscripts omit these last two lines.}</div>
+</div>
+<div class="row">
+<div class="number">14</div><div class="verse"> Yahweh upholds all who fall, and raises up all those who are bowed down.</div>
+</div>
+<div class="row">
+<div class="number">15</div><div class="verse"> The eyes of all wait for you. You give them their food in due season.</div>
+</div>
+<div class="row">
+<div class="number">16</div><div class="verse"> You open your hand, and satisfy the desire of every living thing.</div>
+</div>
+<div class="row">
+<div class="number">17</div><div class="verse"> Yahweh is righteous in all his ways, and gracious in all his works.</div>
+</div>
+<div class="row">
+<div class="number">18</div><div class="verse"> Yahweh is near to all those who call on him, to all who call on him in truth.</div>
+</div>
+<div class="row">
+<div class="number">19</div><div class="verse"> He will fulfill the desire of those who fear him. He also will hear their cry, and will save them.</div>
+</div>
+<div class="row">
+<div class="number">20</div><div class="verse"> Yahweh preserves all those who love him, but all the wicked he will destroy.</div>
+</div>
+<div class="row">
+<div class="number">21</div><div class="verse"> My mouth will speak the praise of Yahweh. Let all flesh bless his holy name forever and ever.</div>
+</div>
+</div>

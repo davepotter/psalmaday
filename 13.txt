@@ -1,0 +1,21 @@
+<h3>Psalm 13</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [For the Chief Musician. A Psalm by David.] How long, Yahweh? Will you forget me forever? How long will you hide your face from me?</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> How long shall I take counsel in my soul, having sorrow in my heart every day? How long shall my enemy triumph over me?</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> Behold, and answer me, Yahweh, my God. Give light to my eyes, lest I sleep in death;</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Lest my enemy say, "I have prevailed against him;" Lest my adversaries rejoice when I fall.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> But I trust in your loving kindness. My heart rejoices in your salvation.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> I will sing to Yahweh, because he has been good to me.</div>
+</div>
+</div>

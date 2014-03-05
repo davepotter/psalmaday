@@ -1,0 +1,57 @@
+<h3>Psalm 132</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [A Song of Ascents.] Yahweh, remember David and all his affliction,</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> how he swore to Yahweh, and vowed to the Mighty One of Jacob:</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> "Surely I will not come into the structure of my house, nor go up into my bed;</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> I will not give sleep to my eyes, or slumber to my eyelids;</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> until I find out a place for Yahweh, a dwelling for the Mighty One of Jacob."</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> Behold, we heard of it in Ephrathah. We found it in the field of Jaar:</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> "We will go into his dwelling place. We will worship at his footstool.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> Arise, Yahweh, into your resting place; you, and the ark of your strength.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> Let your priest be clothed with righteousness. Let your saints shout for joy!"</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> For your servant David's sake, don't turn away the face of your anointed one.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> Yahweh has sworn to David in truth. He will not turn from it: "I will set the fruit of your body on your throne.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> If your children will keep my covenant, my testimony that I will teach them, their children also will sit on your throne forevermore."</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> For Yahweh has chosen Zion. He has desired it for his habitation.</div>
+</div>
+<div class="row">
+<div class="number">14</div><div class="verse"> "This is my resting place forever. Here I will live, for I have desired it.</div>
+</div>
+<div class="row">
+<div class="number">15</div><div class="verse"> I will abundantly bless her provision. I will satisfy her poor with bread.</div>
+</div>
+<div class="row">
+<div class="number">16</div><div class="verse"> Her priests I will also clothe with salvation. Her saints will shout aloud for joy.</div>
+</div>
+<div class="row">
+<div class="number">17</div><div class="verse"> There I will make the horn of David to bud. I have ordained a lamp for my anointed.</div>
+</div>
+<div class="row">
+<div class="number">18</div><div class="verse"> I will clothe his enemies with shame, but on himself, his crown will be resplendent."</div>
+</div>
+</div>

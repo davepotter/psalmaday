@@ -1,0 +1,27 @@
+<h3>Psalm 130</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [A Song of Ascents.] Out of the depths I have cried to you, Yahweh.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Lord, hear my voice. Let your ears be attentive to the voice of my petitions.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> If you, Yah, kept a record of sins, Lord, who could stand?</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> But there is forgiveness with you, therefore you are feared.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> I wait for Yahweh. My soul waits. I hope in his word.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> My soul longs for the Lord more than watchmen long for the morning; more than watchmen for the morning.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> Israel, hope in Yahweh, for with Yahweh there is loving kindness. With him is abundant redemption.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> He will redeem Israel from all their sins.</div>
+</div>
+</div>

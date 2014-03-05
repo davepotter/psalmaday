@@ -1,0 +1,96 @@
+<h3>Psalm 22</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [For the Chief Musician; set to "The Doe of the Morning." A Psalm by David.] My God, my God, why have you forsaken me? Why are you so far from helping me, and from the words of my groaning?</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> My God, I cry in the daytime, but you don't answer; in the night season, and am not silent.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> But you are holy, you who inhabit the praises of Israel.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Our fathers trusted in you. They trusted, and you delivered them.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> They cried to you, and were delivered. They trusted in you, and were not disappointed.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> But I am a worm, and no man; a reproach of men, and despised by the people.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> All those who see me mock me. They insult me with their lips. They shake their heads, saying,</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> "He trusts in Yahweh; let him deliver him. Let him rescue him, since he delights in him."</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> But you brought me out of the womb. You made me trust at my mother's breasts.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> I was thrown on you from my mother's womb. You are my God since my mother bore me.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> Don't be far from me, for trouble is near. For there is none to help.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> Many bulls have surrounded me. Strong bulls of Bashan have encircled me.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> They open their mouths wide against me, lions tearing prey and roaring.</div>
+</div>
+<div class="row">
+<div class="number">14</div><div class="verse"> I am poured out like water. All my bones are out of joint. My heart is like wax; it is melted within me.</div>
+</div>
+<div class="row">
+<div class="number">15</div><div class="verse"> My strength is dried up like a potsherd. My tongue sticks to the roof of my mouth. You have brought me into the dust of death.</div>
+</div>
+<div class="row">
+<div class="number">16</div><div class="verse"> For dogs have surrounded me. A company of evildoers have enclosed me. Like a lion, they pin my hands and feet.{or, They have pierced my hands and feet. (DSS)}</div>
+</div>
+<div class="row">
+<div class="number">17</div><div class="verse"> I can count all of my bones. They look and stare at me.</div>
+</div>
+<div class="row">
+<div class="number">18</div><div class="verse"> They divide my garments among them. They cast lots for my clothing.</div>
+</div>
+<div class="row">
+<div class="number">19</div><div class="verse"> But don't be far off, Yahweh. You are my help: hurry to help me.</div>
+</div>
+<div class="row">
+<div class="number">20</div><div class="verse"> Deliver my soul from the sword, my precious life from the power of the dog.</div>
+</div>
+<div class="row">
+<div class="number">21</div><div class="verse"> Save me from the lion's mouth! Yes, from the horns of the wild oxen, you have answered me.</div>
+</div>
+<div class="row">
+<div class="number">22</div><div class="verse"> I will declare your name to my brothers. In the midst of the assembly, I will praise you.</div>
+</div>
+<div class="row">
+<div class="number">23</div><div class="verse"> You who fear Yahweh, praise him! All you descendants of Jacob, glorify him! Stand in awe of him, all you descendants of Israel!</div>
+</div>
+<div class="row">
+<div class="number">24</div><div class="verse"> For he has not despised nor abhorred the affliction of the afflicted, Neither has he hidden his face from him; but when he cried to him, he heard.</div>
+</div>
+<div class="row">
+<div class="number">25</div><div class="verse"> Of you comes my praise in the great assembly. I will pay my vows before those who fear him.</div>
+</div>
+<div class="row">
+<div class="number">26</div><div class="verse"> The humble shall eat and be satisfied. They shall praise Yahweh who seek after him. Let your hearts live forever.</div>
+</div>
+<div class="row">
+<div class="number">27</div><div class="verse"> All the ends of the earth shall remember and turn to Yahweh. All the relatives of the nations shall worship before you.</div>
+</div>
+<div class="row">
+<div class="number">28</div><div class="verse"> For the kingdom is Yahweh's. He is the ruler over the nations.</div>
+</div>
+<div class="row">
+<div class="number">29</div><div class="verse"> All the rich ones of the earth shall eat and worship. All those who go down to the dust shall bow before him, even he who can't keep his soul alive.</div>
+</div>
+<div class="row">
+<div class="number">30</div><div class="verse"> Posterity shall serve him. Future generations shall be told about the Lord.</div>
+</div>
+<div class="row">
+<div class="number">31</div><div class="verse"> They shall come and shall declare his righteousness to a people that shall be born, for he has done it.</div>
+</div>
+</div>

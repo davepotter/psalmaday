@@ -1,0 +1,72 @@
+<h3>Psalm 55</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [For the Chief Musician. On stringed instruments. A contemplation by David.] Listen to my prayer, God. Don't hide yourself from my supplication.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Attend to me, and answer me. I am restless in my complaint, and moan,</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> Because of the voice of the enemy, Because of the oppression of the wicked. For they bring suffering on me. In anger they hold a grudge against me.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> My heart is severely pained within me. The terrors of death have fallen on me.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> Fearfulness and trembling have come on me. Horror has overwhelmed me.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> I said, "Oh that I had wings like a dove! Then I would fly away, and be at rest.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> Behold, then I would wander far off. I would lodge in the wilderness." Selah.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> "I would hurry to a shelter from the stormy wind and storm."</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> Confuse them, Lord, and confound their language, for I have seen violence and strife in the city.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> Day and night they prowl around on its walls. Malice and abuse are also within her.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> Destructive forces are within her. Threats and lies don't depart from her streets.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> For it was not an enemy who insulted me, then I could have endured it. Neither was it he who hated me who raised himself up against me, then I would have hid myself from him.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> But it was you, a man like me, my companion, and my familiar friend.</div>
+</div>
+<div class="row">
+<div class="number">14</div><div class="verse"> We took sweet fellowship together. We walked in God's house with company.</div>
+</div>
+<div class="row">
+<div class="number">15</div><div class="verse"> Let death come suddenly on them. Let them go down alive into Sheol. For wickedness is in their dwelling, in the midst of them.</div>
+</div>
+<div class="row">
+<div class="number">16</div><div class="verse"> As for me, I will call on God. Yahweh will save me.</div>
+</div>
+<div class="row">
+<div class="number">17</div><div class="verse"> Evening, morning, and at noon, I will cry out in distress. He will hear my voice.</div>
+</div>
+<div class="row">
+<div class="number">18</div><div class="verse"> He has redeemed my soul in peace from the battle that was against me, although there are many who oppose me.</div>
+</div>
+<div class="row">
+<div class="number">19</div><div class="verse"> God, who is enthroned forever, will hear, and answer them. Selah.  They never change, who don't fear God.</div>
+</div>
+<div class="row">
+<div class="number">20</div><div class="verse"> He raises his hands against his friends. He has violated his covenant.</div>
+</div>
+<div class="row">
+<div class="number">21</div><div class="verse"> His mouth was smooth as butter, but his heart was war. His words were softer than oil, yet they were drawn swords.</div>
+</div>
+<div class="row">
+<div class="number">22</div><div class="verse"> Cast your burden on Yahweh, and he will sustain you. He will never allow the righteous to be moved.</div>
+</div>
+<div class="row">
+<div class="number">23</div><div class="verse"> But you, God, will bring them down into the pit of destruction. Bloodthirsty and deceitful men shall not live out half their days, but I will trust in you.</div>
+</div>
+</div>

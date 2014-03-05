@@ -1,0 +1,33 @@
+<h3>Psalm 75</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [For the Chief Musician. To the tune of "Do Not Destroy." A Psalm by Asaph. A song.] We give thanks to you, God. We give thanks, for your Name is near. Men tell about your wondrous works.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> When I choose the appointed time, I will judge blamelessly.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> The earth and all its inhabitants quake. I firmly hold its pillars. Selah.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> I said to the arrogant, "Don't boast!" I said to the wicked, "Don't lift up the horn.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> Don't lift up your horn on high. Don't speak with a stiff neck."</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> For neither from the east, nor from the west, nor yet from the south, comes exaltation.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> But God is the judge. He puts down one, and lifts up another.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> For in the hand of Yahweh there is a cup, full of foaming wine mixed with spices. He pours it out. Indeed the wicked of the earth drink and drink it to its very dregs.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> But I will declare this forever: I will sing praises to the God of Jacob.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> I will cut off all the horns of the wicked, but the horns of the righteous shall be lifted up.</div>
+</div>
+</div>

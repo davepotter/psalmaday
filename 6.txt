@@ -1,0 +1,33 @@
+<h3>Psalm 6</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [For the Chief Musician; on stringed instruments, upon the eight-stringed lyre. A Psalm by David.] Yahweh, don't rebuke me in your anger, neither discipline me in your wrath.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Have mercy on me, Yahweh, for I am faint. Yahweh, heal me, for my bones are troubled.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> My soul is also in great anguish. But you, Yahweh--how long?</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Return, Yahweh. Deliver my soul, and save me for your loving kindness' sake.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> For in death there is no memory of you. In Sheol, who shall give you thanks?</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> I am weary with my groaning. Every night I flood my bed. I drench my couch with my tears.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> My eye wastes away because of grief. It grows old because of all my adversaries.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> Depart from me, all you workers of iniquity, for Yahweh has heard the voice of my weeping.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> Yahweh has heard my supplication. Yahweh accepts my prayer.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> May all my enemies be ashamed and dismayed. They shall turn back, they shall be disgraced suddenly.</div>
+</div>
+</div>

@@ -1,0 +1,24 @@
+<h3>Psalm 110</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [A Psalm by David.] Yahweh says to my Lord, "Sit at my right hand, until I make your enemies your footstool for your feet."</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Yahweh will send forth the rod of your strength out of Zion. Rule in the midst of your enemies.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> Your people offer themselves willingly in the day of your power, in holy array. Out of the womb of the morning, you have the dew of your youth.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Yahweh has sworn, and will not change his mind: "You are a priest forever in the order of Melchizedek."</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> The Lord is at your right hand. He will crush kings in the day of his wrath.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> He will judge among the nations. He will heap up dead bodies. He will crush the ruler of the whole earth.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> He will drink of the brook in the way; therefore he will lift up his head.</div>
+</div>
+</div>

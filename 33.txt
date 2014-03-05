@@ -1,0 +1,69 @@
+<h3>Psalm 33</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> Rejoice in Yahweh, you righteous! Praise is fitting for the upright.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Give thanks to Yahweh with the lyre. Sing praises to him with the harp of ten strings.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> Sing to him a new song. Play skillfully with a shout of joy!</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> For the word of Yahweh is right. All his work is done in faithfulness.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> He loves righteousness and justice. The earth is full of the loving kindness of Yahweh.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> By Yahweh's word, the heavens were made; all their army by the breath of his mouth.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> He gathers the waters of the sea together as a heap. He lays up the deeps in storehouses.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> Let all the earth fear Yahweh. Let all the inhabitants of the world stand in awe of him.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> For he spoke, and it was done. He commanded, and it stood firm.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> Yahweh brings the counsel of the nations to nothing. He makes the thoughts of the peoples to be of no effect.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> The counsel of Yahweh stands fast forever, the thoughts of his heart to all generations.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> Blessed is the nation whose God is Yahweh, the people whom he has chosen for his own inheritance.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> Yahweh looks from heaven. He sees all the sons of men.</div>
+</div>
+<div class="row">
+<div class="number">14</div><div class="verse"> From the place of his habitation he looks out on all the inhabitants of the earth,</div>
+</div>
+<div class="row">
+<div class="number">15</div><div class="verse"> he who fashions all of their hearts; and he considers all of their works.</div>
+</div>
+<div class="row">
+<div class="number">16</div><div class="verse"> There is no king saved by the multitude of an army. A mighty man is not delivered by great strength.</div>
+</div>
+<div class="row">
+<div class="number">17</div><div class="verse"> A horse is a vain thing for safety, neither does he deliver any by his great power.</div>
+</div>
+<div class="row">
+<div class="number">18</div><div class="verse"> Behold, Yahweh's eye is on those who fear him, on those who hope in his loving kindness;</div>
+</div>
+<div class="row">
+<div class="number">19</div><div class="verse"> to deliver their soul from death, to keep them alive in famine.</div>
+</div>
+<div class="row">
+<div class="number">20</div><div class="verse"> Our soul has waited for Yahweh. He is our help and our shield.</div>
+</div>
+<div class="row">
+<div class="number">21</div><div class="verse"> For our heart rejoices in him, because we have trusted in his holy name.</div>
+</div>
+<div class="row">
+<div class="number">22</div><div class="verse"> Let your loving kindness be on us, Yahweh, since we have hoped in you. {}</div>
+</div>
+</div>

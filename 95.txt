@@ -1,0 +1,36 @@
+<h3>Psalm 95</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> Oh come, let's sing to Yahweh. Let's shout aloud to the rock of our salvation!</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Let's come before his presence with thanksgiving. Let's extol him with songs!</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> For Yahweh is a great God, a great King above all gods.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> In his hand are the deep places of the earth. The heights of the mountains are also his.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> The sea is his, and he made it. His hands formed the dry land.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> Oh come, let's worship and bow down. Let's kneel before Yahweh, our Maker,</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> for he is our God. We are the people of his pasture, and the sheep in his care. Today, oh that you would hear his voice!</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> Don't harden your heart, as at Meribah, as in the day of Massah in the wilderness,</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> when your fathers tempted me, tested me, and saw my work.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> Forty long years I was grieved with that generation, and said, "It is a people that errs in their heart. They have not known my ways."</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> Therefore I swore in my wrath, "They won't enter into my rest."</div>
+</div>
+</div>

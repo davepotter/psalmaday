@@ -1,0 +1,42 @@
+<h3>Psalm 85</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [For the Chief Musician. A Psalm by the sons of Korah.] Yahweh, you have been favorable to your land. You have restored the fortunes of Jacob.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> You have forgiven the iniquity of your people. You have covered all their sin. Selah.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> You have taken away all your wrath. You have turned from the fierceness of your anger.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Turn us, God of our salvation, and cause your indignation toward us to cease.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> Will you be angry with us forever? Will you draw out your anger to all generations?</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> Won't you revive us again, that your people may rejoice in you?</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> Show us your loving kindness, Yahweh. Grant us your salvation.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> I will hear what God, Yahweh, will speak, for he will speak peace to his people, his saints; but let them not turn again to folly.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> Surely his salvation is near those who fear him, that glory may dwell in our land.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> Mercy and truth meet together. Righteousness and peace have kissed each other.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> Truth springs out of the earth. Righteousness has looked down from heaven.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> Yes, Yahweh will give that which is good. Our land will yield its increase.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> Righteousness goes before him, And prepares the way for his steps.</div>
+</div>
+</div>

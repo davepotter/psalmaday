@@ -1,0 +1,54 @@
+<h3>Psalm 86</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [A Prayer by David.] Hear, Yahweh, and answer me, for I am poor and needy.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Preserve my soul, for I am godly. You, my God, save your servant who trusts in you.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> Be merciful to me, Lord, for I call to you all day long.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Bring joy to the soul of your servant, for to you, Lord, do I lift up my soul.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> For you, Lord, are good, and ready to forgive; abundant in loving kindness to all those who call on you.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> Hear, Yahweh, my prayer. Listen to the voice of my petitions.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> In the day of my trouble I will call on you, for you will answer me.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> There is no one like you among the gods, Lord, nor any deeds like your deeds.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> All nations you have made will come and worship before you, Lord. They shall glorify your name.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> For you are great, and do wondrous things. You are God alone.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> Teach me your way, Yahweh. I will walk in your truth. Make my heart undivided to fear your name.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> I will praise you, Lord my God, with my whole heart. I will glorify your name forevermore.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> For your loving kindness is great toward me. You have delivered my soul from the lowest Sheol.</div>
+</div>
+<div class="row">
+<div class="number">14</div><div class="verse"> God, the proud have risen up against me. A company of violent men have sought after my soul, and they don't hold regard for you before them.</div>
+</div>
+<div class="row">
+<div class="number">15</div><div class="verse"> But you, Lord, are a merciful and gracious God, slow to anger, and abundant in loving kindness and truth.</div>
+</div>
+<div class="row">
+<div class="number">16</div><div class="verse"> Turn to me, and have mercy on me! Give your strength to your servant. Save the son of your handmaid.</div>
+</div>
+<div class="row">
+<div class="number">17</div><div class="verse"> Show me a sign of your goodness, that those who hate me may see it, and be shamed, because you, Yahweh, have helped me, and comforted me.</div>
+</div>
+</div>

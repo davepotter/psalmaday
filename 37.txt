@@ -1,0 +1,123 @@
+<h3>Psalm 37</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [By David.] Don't fret because of evildoers, neither be envious against those who work unrighteousness.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> For they shall soon be cut down like the grass, and wither like the green herb.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> Trust in Yahweh, and do good. Dwell in the land, and enjoy safe pasture.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Also delight yourself in Yahweh, and he will give you the desires of your heart.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> Commit your way to Yahweh. Trust also in him, and he will do this:</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> he will make your righteousness go forth as the light, and your justice as the noon day sun.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> Rest in Yahweh, and wait patiently for him. Don't fret because of him who prospers in his way, because of the man who makes wicked plots happen.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> Cease from anger, and forsake wrath. Don't fret, it leads only to evildoing.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> For evildoers shall be cut off, but those who wait for Yahweh shall inherit the land.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> For yet a little while, and the wicked will be no more. Yes, though you look for his place, he isn't there.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> But the humble shall inherit the land, and shall delight themselves in the abundance of peace.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> The wicked plots against the just, and gnashes at him with his teeth.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> The Lord will laugh at him, for he sees that his day is coming.</div>
+</div>
+<div class="row">
+<div class="number">14</div><div class="verse"> The wicked have drawn out the sword, and have bent their bow, to cast down the poor and needy, to kill those who are upright in the way.</div>
+</div>
+<div class="row">
+<div class="number">15</div><div class="verse"> Their sword shall enter into their own heart. Their bows shall be broken.</div>
+</div>
+<div class="row">
+<div class="number">16</div><div class="verse"> Better is a little that the righteous has, than the abundance of many wicked.</div>
+</div>
+<div class="row">
+<div class="number">17</div><div class="verse"> For the arms of the wicked shall be broken, but Yahweh upholds the righteous.</div>
+</div>
+<div class="row">
+<div class="number">18</div><div class="verse"> Yahweh knows the days of the perfect. Their inheritance shall be forever.</div>
+</div>
+<div class="row">
+<div class="number">19</div><div class="verse"> They shall not be disappointed in the time of evil. In the days of famine they shall be satisfied.</div>
+</div>
+<div class="row">
+<div class="number">20</div><div class="verse"> But the wicked shall perish. The enemies of Yahweh shall be like the beauty of the fields. They will vanish-- vanish like smoke.</div>
+</div>
+<div class="row">
+<div class="number">21</div><div class="verse"> The wicked borrow, and don't pay back, but the righteous give generously.</div>
+</div>
+<div class="row">
+<div class="number">22</div><div class="verse"> For such as are blessed by him shall inherit the land. Those who are cursed by him shall be cut off.</div>
+</div>
+<div class="row">
+<div class="number">23</div><div class="verse"> A man's goings are established by Yahweh. He delights in his way.</div>
+</div>
+<div class="row">
+<div class="number">24</div><div class="verse"> Though he stumble, he shall not fall, for Yahweh holds him up with his hand.</div>
+</div>
+<div class="row">
+<div class="number">25</div><div class="verse"> I have been young, and now am old, yet I have not seen the righteous forsaken, nor his children begging for bread.</div>
+</div>
+<div class="row">
+<div class="number">26</div><div class="verse"> All day long he deals graciously, and lends. His seed is blessed.</div>
+</div>
+<div class="row">
+<div class="number">27</div><div class="verse"> Depart from evil, and do good. Live securely forever.</div>
+</div>
+<div class="row">
+<div class="number">28</div><div class="verse"> For Yahweh loves justice, and doesn't forsake his saints. They are preserved forever, but the children of the wicked shall be cut off.</div>
+</div>
+<div class="row">
+<div class="number">29</div><div class="verse"> The righteous shall inherit the land, and live in it forever.</div>
+</div>
+<div class="row">
+<div class="number">30</div><div class="verse"> The mouth of the righteous talks of wisdom. His tongue speaks justice.</div>
+</div>
+<div class="row">
+<div class="number">31</div><div class="verse"> The law of his God is in his heart. None of his steps shall slide.</div>
+</div>
+<div class="row">
+<div class="number">32</div><div class="verse"> The wicked watches the righteous, and seeks to kill him.</div>
+</div>
+<div class="row">
+<div class="number">33</div><div class="verse"> Yahweh will not leave him in his hand, nor condemn him when he is judged.</div>
+</div>
+<div class="row">
+<div class="number">34</div><div class="verse"> Wait for Yahweh, and keep his way, and he will exalt you to inherit the land. When the wicked are cut off, you shall see it.</div>
+</div>
+<div class="row">
+<div class="number">35</div><div class="verse"> I have seen the wicked in great power, spreading himself like a green tree in its native soil.</div>
+</div>
+<div class="row">
+<div class="number">36</div><div class="verse"> But he passed away, and behold, he was not. Yes, I sought him, but he could not be found.</div>
+</div>
+<div class="row">
+<div class="number">37</div><div class="verse"> Mark the perfect man, and see the upright, for there is a future for the man of peace.</div>
+</div>
+<div class="row">
+<div class="number">38</div><div class="verse"> As for transgressors, they shall be destroyed together. The future of the wicked shall be cut off.</div>
+</div>
+<div class="row">
+<div class="number">39</div><div class="verse"> But the salvation of the righteous is from Yahweh. He is their stronghold in the time of trouble.</div>
+</div>
+<div class="row">
+<div class="number">40</div><div class="verse"> Yahweh helps them, and rescues them. He rescues them from the wicked, and saves them, Because they have taken refuge in him.</div>
+</div>
+</div>

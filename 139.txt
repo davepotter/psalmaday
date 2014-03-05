@@ -1,0 +1,75 @@
+<h3>Psalm 139</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [For the Chief Musician. A Psalm by David.] Yahweh, you have searched me, and you know me.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> You know my sitting down and my rising up. You perceive my thoughts from afar.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> You search out my path and my lying down, and are acquainted with all my ways.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> For there is not a word on my tongue, but, behold, Yahweh, you know it altogether.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> You hem me in behind and before. You laid your hand on me.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> This knowledge is beyond me. It's lofty. I can't attain it.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> Where could I go from your Spirit? Or where could I flee from your presence?</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> If I ascend up into heaven, you are there. If I make my bed in Sheol, behold, you are there!</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> If I take the wings of the dawn, and settle in the uttermost parts of the sea;</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> Even there your hand will lead me, and your right hand will hold me.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> If I say, "Surely the darkness will overwhelm me; the light around me will be night;"</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> even the darkness doesn't hide from you, but the night shines as the day. The darkness is like light to you.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> For you formed my inmost being. You knit me together in my mother's womb.</div>
+</div>
+<div class="row">
+<div class="number">14</div><div class="verse"> I will give thanks to you, for I am fearfully and wonderfully made. Your works are wonderful. My soul knows that very well.</div>
+</div>
+<div class="row">
+<div class="number">15</div><div class="verse"> My frame wasn't hidden from you, when I was made in secret, woven together in the depths of the earth.</div>
+</div>
+<div class="row">
+<div class="number">16</div><div class="verse"> Your eyes saw my body. In your book they were all written, the days that were ordained for me, when as yet there were none of them.</div>
+</div>
+<div class="row">
+<div class="number">17</div><div class="verse"> How precious to me are your thoughts, God! How vast is the sum of them!</div>
+</div>
+<div class="row">
+<div class="number">18</div><div class="verse"> If I would count them, they are more in number than the sand. When I wake up, I am still with you.</div>
+</div>
+<div class="row">
+<div class="number">19</div><div class="verse"> If only you, God, would kill the wicked. Get away from me, you bloodthirsty men!</div>
+</div>
+<div class="row">
+<div class="number">20</div><div class="verse"> For they speak against you wickedly. Your enemies take your name in vain.</div>
+</div>
+<div class="row">
+<div class="number">21</div><div class="verse"> Yahweh, don't I hate those who hate you? Am I not grieved with those who rise up against you?</div>
+</div>
+<div class="row">
+<div class="number">22</div><div class="verse"> I hate them with perfect hatred. They have become my enemies.</div>
+</div>
+<div class="row">
+<div class="number">23</div><div class="verse"> Search me, God, and know my heart. Try me, and know my thoughts.</div>
+</div>
+<div class="row">
+<div class="number">24</div><div class="verse"> See if there is any wicked way in me, and lead me in the everlasting way.</div>
+</div>
+</div>

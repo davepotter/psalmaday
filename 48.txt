@@ -1,0 +1,45 @@
+<h3>Psalm 48</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [A Song. A Psalm by the sons of Korah.] Great is Yahweh, and greatly to be praised, in the city of our God, in his holy mountain.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Beautiful in elevation, the joy of the whole earth, is Mount Zion, on the north sides, the city of the great King.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> God has shown himself in her citadels as a refuge.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> For, behold, the kings assembled themselves, they passed by together.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> They saw it, then they were amazed. They were dismayed. They hurried away.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> Trembling took hold of them there, pain, as of a woman in travail.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> With the east wind, you break the ships of Tarshish.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> As we have heard, so we have seen, in the city of Yahweh of Armies, in the city of our God. God will establish it forever. Selah.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> We have thought about your loving kindness, God, in the midst of your temple.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> As is your name, God, so is your praise to the ends of the earth. Your right hand is full of righteousness.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> Let Mount Zion be glad! Let the daughters of Judah rejoice, Because of your judgments.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> Walk about Zion, and go around her. Number its towers.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> Mark well her bulwarks. Consider her palaces, that you may tell it to the next generation.</div>
+</div>
+<div class="row">
+<div class="number">14</div><div class="verse"> For this God is our God forever and ever. He will be our guide even to death.</div>
+</div>
+</div>

@@ -1,0 +1,42 @@
+<h3>Psalm 65</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [For the Chief Musician. A Psalm by David. A song.] Praise waits for you, God, in Zion. To you shall vows be performed.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> You who hear prayer, to you all men will come.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> Sins overwhelmed me, but you atoned for our transgressions.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Blessed is one whom you choose, and cause to come near, that he may live in your courts. We will be filled with the goodness of your house, your holy temple.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> By awesome deeds of righteousness, you answer us, God of our salvation. You who are the hope of all the ends of the earth, of those who are far away on the sea;</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> Who by his power forms the mountains, having armed yourself with strength;</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> who stills the roaring of the seas, the roaring of their waves, and the turmoil of the nations.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> They also who dwell in faraway places are afraid at your wonders. You call the morning's dawn and the evening with songs of joy.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> You visit the earth, and water it. You greatly enrich it. The river of God is full of water. You provide them grain, for so you have ordained it.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> You drench its furrows. You level its ridges. You soften it with showers. You bless it with a crop.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> You crown the year with your bounty. Your carts overflow with abundance.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> The wilderness grasslands overflow. The hills are clothed with gladness.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> The pastures are covered with flocks. The valleys also are clothed with grain. They shout for joy! They also sing.</div>
+</div>
+</div>

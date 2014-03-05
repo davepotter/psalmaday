@@ -1,0 +1,36 @@
+<h3>Psalm 32</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [By David. A contemplative psalm.] Blessed is he whose disobedience is forgiven, whose sin is covered.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Blessed is the man to whom Yahweh doesn't impute iniquity, in whose spirit there is no deceit.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> When I kept silence, my bones wasted away through my groaning all day long.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> For day and night your hand was heavy on me. My strength was sapped in the heat of summer. Selah.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> I acknowledged my sin to you. I didn't hide my iniquity. I said, I will confess my transgressions to Yahweh, and you forgave the iniquity of my sin. Selah.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> For this, let everyone who is godly pray to you in a time when you may be found. Surely when the great waters overflow, they shall not reach to him.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> You are my hiding place. You will preserve me from trouble. You will surround me with songs of deliverance. Selah.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> I will instruct you and teach you in the way which you shall go. I will counsel you with my eye on you.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> Don't be like the horse, or like the mule, which have no understanding, who are controlled by bit and bridle, or else they will not come near to you.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> Many sorrows come to the wicked, but loving kindness shall surround him who trusts in Yahweh.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> Be glad in Yahweh, and rejoice, you righteous! Shout for joy, all you who are upright in heart!</div>
+</div>
+</div>

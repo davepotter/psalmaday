@@ -1,0 +1,111 @@
+<h3>Psalm 69</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [For the Chief Musician. To the tune of "Lilies." By David.] Save me, God, for the waters have come up to my neck!</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> I sink in deep mire, where there is no foothold. I have come into deep waters, where the floods overflow me.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> I am weary with my crying. My throat is dry. My eyes fail, looking for my God.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Those who hate me without a cause are more than the hairs of my head. Those who want to cut me off, being my enemies wrongfully, are mighty. I have to restore what I didn't take away.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> God, you know my foolishness. My sins aren't hidden from you.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> Don't let those who wait for you be shamed through me, Lord Yahweh of Armies. Don't let those who seek you be brought to dishonor through me, God of Israel.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> Because for your sake, I have borne reproach. Shame has covered my face.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> I have become a stranger to my brothers, an alien to my mother's children.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> For the zeal of your house consumes me. The reproaches of those who reproach you have fallen on me.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> When I wept and I fasted, that was to my reproach.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> When I made sackcloth my clothing, I became a byword to them.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> Those who sit in the gate talk about me. I am the song of the drunkards.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> But as for me, my prayer is to you, Yahweh, in an acceptable time. God, in the abundance of your loving kindness, answer me in the truth of your salvation.</div>
+</div>
+<div class="row">
+<div class="number">14</div><div class="verse"> Deliver me out of the mire, and don't let me sink. Let me be delivered from those who hate me, and out of the deep waters.</div>
+</div>
+<div class="row">
+<div class="number">15</div><div class="verse"> Don't let the flood waters overwhelm me, neither let the deep swallow me up. Don't let the pit shut its mouth on me.</div>
+</div>
+<div class="row">
+<div class="number">16</div><div class="verse"> Answer me, Yahweh, for your loving kindness is good. According to the multitude of your tender mercies, turn to me.</div>
+</div>
+<div class="row">
+<div class="number">17</div><div class="verse"> Don't hide your face from your servant, for I am in distress. Answer me speedily!</div>
+</div>
+<div class="row">
+<div class="number">18</div><div class="verse"> Draw near to my soul, and redeem it. Ransom me because of my enemies.</div>
+</div>
+<div class="row">
+<div class="number">19</div><div class="verse"> You know my reproach, my shame, and my dishonor. My adversaries are all before you.</div>
+</div>
+<div class="row">
+<div class="number">20</div><div class="verse"> Reproach has broken my heart, and I am full of heaviness. I looked for some to take pity, but there was none; for comforters, but I found none.</div>
+</div>
+<div class="row">
+<div class="number">21</div><div class="verse"> They also gave me gall for my food. In my thirst, they gave me vinegar to drink.</div>
+</div>
+<div class="row">
+<div class="number">22</div><div class="verse"> Let their table before them become a snare. May it become a retribution and a trap.</div>
+</div>
+<div class="row">
+<div class="number">23</div><div class="verse"> Let their eyes be darkened, so that they can't see. Let their backs be continually bent.</div>
+</div>
+<div class="row">
+<div class="number">24</div><div class="verse"> Pour out your indignation on them. Let the fierceness of your anger overtake them.</div>
+</div>
+<div class="row">
+<div class="number">25</div><div class="verse"> Let their habitation be desolate. Let no one dwell in their tents.</div>
+</div>
+<div class="row">
+<div class="number">26</div><div class="verse"> For they persecute him whom you have wounded. They tell of the sorrow of those whom you have hurt.</div>
+</div>
+<div class="row">
+<div class="number">27</div><div class="verse"> Charge them with crime upon crime. Don't let them come into your righteousness.</div>
+</div>
+<div class="row">
+<div class="number">28</div><div class="verse"> Let them be blotted out of the book of life, and not be written with the righteous.</div>
+</div>
+<div class="row">
+<div class="number">29</div><div class="verse"> But I am in pain and distress. Let your salvation, God, protect me.</div>
+</div>
+<div class="row">
+<div class="number">30</div><div class="verse"> I will praise the name of God with a song, and will magnify him with thanksgiving.</div>
+</div>
+<div class="row">
+<div class="number">31</div><div class="verse"> It will please Yahweh better than an ox, or a bull that has horns and hoofs.</div>
+</div>
+<div class="row">
+<div class="number">32</div><div class="verse"> The humble have seen it, and are glad. You who seek after God, let your heart live.</div>
+</div>
+<div class="row">
+<div class="number">33</div><div class="verse"> For Yahweh hears the needy, and doesn't despise his captive people.</div>
+</div>
+<div class="row">
+<div class="number">34</div><div class="verse"> Let heaven and earth praise him; the seas, and everything that moves therein!</div>
+</div>
+<div class="row">
+<div class="number">35</div><div class="verse"> For God will save Zion, and build the cities of Judah. They shall settle there, and own it.</div>
+</div>
+<div class="row">
+<div class="number">36</div><div class="verse"> The children also of his servants shall inherit it. Those who love his name shall dwell therein.</div>
+</div>
+</div>

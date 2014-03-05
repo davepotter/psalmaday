@@ -1,0 +1,21 @@
+<h3>Psalm 1</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> Blessed is the man who doesn't walk in the counsel of the wicked, nor stand in the way of sinners, nor sit in the seat of scoffers;</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> but his delight is in Yahweh's law. On his law he meditates day and night.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> He will be like a tree planted by the streams of water, that brings forth its fruit in its season, whose leaf also does not wither. Whatever he does shall prosper.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> The wicked are not so, but are like the chaff which the wind drives away.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> Therefore the wicked shall not stand in the judgment, nor sinners in the congregation of the righteous.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> For Yahweh knows the way of the righteous, but the way of the wicked shall perish.</div>
+</div>
+</div>

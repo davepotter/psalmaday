@@ -1,0 +1,63 @@
+<h3>Psalm 66</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [For the Chief Musician. A song. A Psalm.] Make a joyful shout to God, all the earth!</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Sing to the glory of his name! Offer glory and praise!</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> Tell God, "How awesome are your deeds! Through the greatness of your power, your enemies submit themselves to you.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> All the earth will worship you, and will sing to you; they will sing to your name." Selah.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> Come, and see God's deeds-- awesome work on behalf of the children of men.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> He turned the sea into dry land. They went through the river on foot. There, we rejoiced in him.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> He rules by his might forever. His eyes watch the nations. Don't let the rebellious rise up against him. Selah.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> Praise our God, you peoples! Make the sound of his praise heard,</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> who preserves our life among the living, and doesn't allow our feet to be moved.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> For you, God, have tested us. You have refined us, as silver is refined.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> You brought us into prison. You laid a burden on our backs.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> You allowed men to ride over our heads. We went through fire and through water, but you brought us to the place of abundance.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> I will come into your temple with burnt offerings. I will pay my vows to you,</div>
+</div>
+<div class="row">
+<div class="number">14</div><div class="verse"> which my lips promised, and my mouth spoke, when I was in distress.</div>
+</div>
+<div class="row">
+<div class="number">15</div><div class="verse"> I will offer to you burnt offerings of fat animals, with the offering of rams, I will offer bulls with goats. Selah.</div>
+</div>
+<div class="row">
+<div class="number">16</div><div class="verse"> Come, and hear, all you who fear God. I will declare what he has done for my soul.</div>
+</div>
+<div class="row">
+<div class="number">17</div><div class="verse"> I cried to him with my mouth. He was extolled with my tongue.</div>
+</div>
+<div class="row">
+<div class="number">18</div><div class="verse"> If I cherished sin in my heart, the Lord wouldn't have listened.</div>
+</div>
+<div class="row">
+<div class="number">19</div><div class="verse"> But most certainly, God has listened. He has heard the voice of my prayer.</div>
+</div>
+<div class="row">
+<div class="number">20</div><div class="verse"> Blessed be God, who has not turned away my prayer, nor his loving kindness from me.</div>
+</div>
+</div>

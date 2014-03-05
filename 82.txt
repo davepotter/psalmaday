@@ -1,0 +1,27 @@
+<h3>Psalm 82</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [A Psalm by Asaph.] God presides in the great assembly. He judges among the gods.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> "How long will you judge unjustly, and show partiality to the wicked?" Selah.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> "Defend the weak, the poor, and the fatherless. Maintain the rights of the poor and oppressed.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Rescue the weak and needy. Deliver them out of the hand of the wicked."</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> They don't know, neither do they understand. They walk back and forth in darkness. All the foundations of the earth are shaken.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> I said, "You are gods, all of you are sons of the Most High.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> Nevertheless you shall die like men, and fall like one of the rulers."</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> Arise, God, judge the earth, for you inherit all of the nations.</div>
+</div>
+</div>

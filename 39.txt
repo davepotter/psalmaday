@@ -1,0 +1,42 @@
+<h3>Psalm 39</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [For the Chief Musician. For Jeduthun. A Psalm by David.] I said, "I will watch my ways, so that I don't sin with my tongue. I will keep my mouth with a bridle while the wicked is before me."</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> I was mute with silence. I held my peace, even from good. My sorrow was stirred.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> My heart was hot within me. While I meditated, the fire burned: I spoke with my tongue:</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> "Yahweh, show me my end, what is the measure of my days. Let me know how frail I am.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> Behold, you have made my days handbreadths. My lifetime is as nothing before you. Surely every man stands as a breath." Selah.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> "Surely every man walks like a shadow. Surely they busy themselves in vain. He heaps up, and doesn't know who shall gather.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> Now, Lord, what do I wait for? My hope is in you.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> Deliver me from all my transgressions. Don't make me the reproach of the foolish.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> I was mute. I didn't open my mouth, because you did it.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> Remove your scourge away from me. I am overcome by the blow of your hand.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> When you rebuke and correct man for iniquity, You consume his wealth like a moth. Surely every man is but a breath." Selah.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> "Hear my prayer, Yahweh, and give ear to my cry. Don't be silent at my tears. For I am a stranger with you, a foreigner, as all my fathers were.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> Oh spare me, that I may recover strength, before I go away, and exist no more."</div>
+</div>
+</div>

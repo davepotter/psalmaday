@@ -1,0 +1,33 @@
+<h3>Psalm 112</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> Praise Yah!{Psalm 112 is an acrostic poem, with each verse after the initial "Praise Yah!" starting with a letter of the alphabet (ordered from Alef to Tav).} Blessed is the man who fears Yahweh, who delights greatly in his commandments.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> His seed will be mighty in the land. The generation of the upright will be blessed.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> Wealth and riches are in his house. His righteousness endures forever.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Light dawns in the darkness for the upright, gracious, merciful, and righteous.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> It is well with the man who deals graciously and lends. He will maintain his cause in judgment.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> For he will never be shaken. The righteous will be remembered forever.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> He will not be afraid of evil news. His heart is steadfast, trusting in Yahweh.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> His heart is established. He will not be afraid in the end when he sees his adversaries.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> He has dispersed, he has given to the poor. His righteousness endures forever. His horn will be exalted with honor.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> The wicked will see it, and be grieved. He shall gnash with his teeth, and melt away. The desire of the wicked will perish.</div>
+</div>
+</div>

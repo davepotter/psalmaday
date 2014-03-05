@@ -1,0 +1,18 @@
+<h3>Psalm 127</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [A Song of Ascents. By Solomon.] Unless Yahweh builds the house, they labor in vain who build it. Unless Yahweh watches over the city, the watchman guards it in vain.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> It is vain for you to rise up early, to stay up late, eating the bread of toil; for he gives sleep to his loved ones.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> Behold, children are a heritage of Yahweh. The fruit of the womb is his reward.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> As arrows in the hand of a mighty man, so are the children of youth.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> Happy is the man who has his quiver full of them. They won't be disappointed when they speak with their enemies in the gate.</div>
+</div>
+</div>

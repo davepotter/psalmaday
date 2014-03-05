@@ -1,0 +1,63 @@
+<h3>Psalm 72</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [By Solomon.] God, give the king your justice; your righteousness to the royal son.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> He will judge your people with righteousness, and your poor with justice.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> The mountains shall bring prosperity to the people. The hills bring the fruit of righteousness.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> He will judge the poor of the people. He will save the children of the needy, and will break the oppressor in pieces.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> They shall fear you while the sun endures; and as long as the moon, throughout all generations.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> He will come down like rain on the mown grass, as showers that water the earth.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> In his days, the righteous shall flourish, and abundance of peace, until the moon is no more.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> He shall have dominion also from sea to sea, from the River to the ends of the earth.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> Those who dwell in the wilderness shall bow before him. His enemies shall lick the dust.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> The kings of Tarshish and of the islands will bring tribute. The kings of Sheba and Seba shall offer gifts.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> Yes, all kings shall fall down before him. All nations shall serve him.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> For he will deliver the needy when he cries; the poor, who has no helper.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> He will have pity on the poor and needy. He will save the souls of the needy.</div>
+</div>
+<div class="row">
+<div class="number">14</div><div class="verse"> He will redeem their soul from oppression and violence. Their blood will be precious in his sight.</div>
+</div>
+<div class="row">
+<div class="number">15</div><div class="verse"> They shall live, and to him shall be given of the gold of Sheba. Men shall pray for him continually. They shall bless him all day long.</div>
+</div>
+<div class="row">
+<div class="number">16</div><div class="verse"> There shall be abundance of grain throughout the land. Its fruit sways like Lebanon. Let it flourish, thriving like the grass of the field.</div>
+</div>
+<div class="row">
+<div class="number">17</div><div class="verse"> His name endures forever. His name continues as long as the sun. Men shall be blessed by him. All nations will call him blessed.</div>
+</div>
+<div class="row">
+<div class="number">18</div><div class="verse"> Praise be to Yahweh God, the God of Israel, who alone does marvelous deeds.</div>
+</div>
+<div class="row">
+<div class="number">19</div><div class="verse"> Blessed be his glorious name forever! Let the whole earth be filled with his glory! Amen and amen.</div>
+</div>
+<div class="row">
+<div class="number">20</div><div class="verse"> This ends the prayers by David, the son of Jesse.</div>
+</div>
+</div>

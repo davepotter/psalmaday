@@ -1,0 +1,42 @@
+<h3>Psalm 41</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [For the Chief Musician. A Psalm by David.] Blessed is he who considers the poor. Yahweh will deliver him in the day of evil.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Yahweh will preserve him, and keep him alive. He shall be blessed on the earth, and he will not surrender him to the will of his enemies.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> Yahweh will sustain him on his sickbed, and restore him from his bed of illness.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> I said, "Yahweh, have mercy on me! Heal me, for I have sinned against you."</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> My enemies speak evil against me: "When will he die, and his name perish?"</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> If he comes to see me, he speaks falsehood. His heart gathers iniquity to itself. When he goes abroad, he tells it.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> All who hate me whisper together against me. They imagine the worst for me.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> "An evil disease," they say, "has afflicted him. Now that he lies he shall rise up no more."</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> Yes, my own familiar friend, in whom I trusted, who ate bread with me, has lifted up his heel against me.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> But you, Yahweh, have mercy on me, and raise me up, that I may repay them.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> By this I know that you delight in me, because my enemy doesn't triumph over me.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> As for me, you uphold me in my integrity, and set me in your presence forever.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> Blessed be Yahweh, the God of Israel, from everlasting and to everlasting! Amen and amen.</div>
+</div>
+</div>

@@ -1,0 +1,18 @@
+<h3>Psalm 93</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> Yahweh reigns! He is clothed with majesty! Yahweh is armed with strength. The world also is established. It can't be moved.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Your throne is established from long ago. You are from everlasting.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> The floods have lifted up, Yahweh, the floods have lifted up their voice. The floods lift up their waves.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Above the voices of many waters, the mighty breakers of the sea, Yahweh on high is mighty.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> Your statutes stand firm. Holiness adorns your house, Yahweh, forevermore.</div>
+</div>
+</div>

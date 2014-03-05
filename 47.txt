@@ -1,0 +1,30 @@
+<h3>Psalm 47</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [For the Chief Musician. A Psalm by the sons of Korah.] Oh clap your hands, all you nations. Shout to God with the voice of triumph!</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> For Yahweh Most High is awesome. He is a great King over all the earth.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> He subdues nations under us, and peoples under our feet.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> He chooses our inheritance for us, the glory of Jacob whom he loved. Selah.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> God has gone up with a shout, Yahweh with the sound of a trumpet.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> Sing praise to God, sing praises. Sing praises to our King, sing praises.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> For God is the King of all the earth. Sing praises with understanding.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> God reigns over the nations. God sits on his holy throne.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> The princes of the peoples are gathered together, the people of the God of Abraham. For the shields of the earth belong to God. He is greatly exalted!</div>
+</div>
+</div>

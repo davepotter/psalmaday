@@ -1,0 +1,9 @@
+<h3>Psalm 117</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> Praise Yahweh, all you nations! Extol him, all you peoples!</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> For his loving kindness is great toward us. Yahweh's faithfulness endures forever. Praise Yah!</div>
+</div>
+</div>

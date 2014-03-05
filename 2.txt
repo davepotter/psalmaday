@@ -1,0 +1,39 @@
+<h3>Psalm 2</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> Why do the nations rage, and the peoples plot a vain thing?</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> The kings of the earth take a stand, and the rulers take counsel together, against Yahweh, and against his Anointed,{The word "Anointed" is the same as the word for "Messiah" or "Christ"} saying,</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> "Let's break their bonds apart, and cast their cords from us."</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> He who sits in the heavens will laugh. The Lord will have them in derision.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> Then he will speak to them in his anger, and terrify them in his wrath:</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> "Yet I have set my king on my holy hill of Zion."</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> I will tell of the decree. Yahweh said to me, "You are my son. Today I have become your father.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> Ask of me, and I will give the nations for your inheritance, the uttermost parts of the earth for your possession.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> You shall break them with a rod of iron. You shall dash them in pieces like a potter's vessel."</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> Now therefore be wise, you kings. Be instructed, you judges of the earth.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> Serve Yahweh with fear, and rejoice with trembling.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> Give sincere homage{or, Kiss the son}, lest he be angry, and you perish in the way, for his wrath will soon be kindled. Blessed are all those who take refuge in him.</div>
+</div>
+</div>

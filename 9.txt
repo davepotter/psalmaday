@@ -1,0 +1,63 @@
+<h3>Psalm 9</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [For the Chief Musician. Set to "The Death of the Son." A Psalm by David.] I will give thanks to Yahweh with my whole heart. I will tell of all your marvelous works.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> I will be glad and rejoice in you. I will sing praise to your name, O Most High.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> When my enemies turn back, they stumble and perish in your presence.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> For you have maintained my just cause. You sit on the throne judging righteously.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> You have rebuked the nations. You have destroyed the wicked. You have blotted out their name forever and ever.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> The enemy is overtaken by endless ruin. The very memory of the cities which you have overthrown has perished.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> But Yahweh reigns forever. He has prepared his throne for judgment.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> He will judge the world in righteousness. He will administer judgment to the peoples in uprightness.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> Yahweh will also be a high tower for the oppressed; a high tower in times of trouble.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> Those who know your name will put their trust in you, for you, Yahweh, have not forsaken those who seek you.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> Sing praises to Yahweh, who dwells in Zion, and declare among the people what he has done.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> For he who avenges blood remembers them. He doesn't forget the cry of the afflicted.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> Have mercy on me, Yahweh. See my affliction by those who hate me, and lift me up from the gates of death;</div>
+</div>
+<div class="row">
+<div class="number">14</div><div class="verse"> that I may show forth all your praise. In the gates of the daughter of Zion, I will rejoice in your salvation.</div>
+</div>
+<div class="row">
+<div class="number">15</div><div class="verse"> The nations have sunk down in the pit that they made. In the net which they hid, their own foot is taken.</div>
+</div>
+<div class="row">
+<div class="number">16</div><div class="verse"> Yahweh has made himself known. He has executed judgment. The wicked is snared by the work of his own hands. Meditation. Selah.</div>
+</div>
+<div class="row">
+<div class="number">17</div><div class="verse"> The wicked shall be turned back to Sheol, even all the nations that forget God.</div>
+</div>
+<div class="row">
+<div class="number">18</div><div class="verse"> For the needy shall not always be forgotten, nor the hope of the poor perish forever.</div>
+</div>
+<div class="row">
+<div class="number">19</div><div class="verse"> Arise, Yahweh! Don't let man prevail. Let the nations be judged in your sight.</div>
+</div>
+<div class="row">
+<div class="number">20</div><div class="verse"> Put them in fear, Yahweh. Let the nations know that they are only men. Selah.</div>
+</div>
+</div>

@@ -1,0 +1,39 @@
+<h3>Psalm 84</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [For the Chief Musician. On an instrument of Gath. A Psalm by the sons of Korah.] How lovely are your dwellings, Yahweh of Armies!</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> My soul longs, and even faints for the courts of Yahweh. My heart and my flesh cry out for the living God.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> Yes, the sparrow has found a home, and the swallow a nest for herself, where she may have her young, near your altars, Yahweh of Armies, my King, and my God.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Blessed are those who dwell in your house. They are always praising you. Selah.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> Blessed are those whose strength is in you; who have set their hearts on a pilgrimage.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> Passing through the valley of Weeping, they make it a place of springs. Yes, the autumn rain covers it with blessings.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> They go from strength to strength. Everyone of them appears before God in Zion.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> Yahweh, God of Armies, hear my prayer. Listen, God of Jacob. Selah.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> Behold, God our shield, look at the face of your anointed.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> For a day in your courts is better than a thousand. I would rather be a doorkeeper in the house of my God, than to dwell in the tents of wickedness.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> For Yahweh God is a sun and a shield. Yahweh will give grace and glory. He withholds no good thing from those who walk blamelessly.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> Yahweh of Armies, blessed is the man who trusts in you.</div>
+</div>
+</div>

@@ -1,0 +1,96 @@
+<h3>Psalm 109</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [For the Chief Musician. A Psalm by David.] God of my praise, don't remain silent,</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> for they have opened the mouth of the wicked and the mouth of deceit against me. They have spoken to me with a lying tongue.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> They have also surrounded me with words of hatred, and fought against me without a cause.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> In return for my love, they are my adversaries; but I am in prayer.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> They have rewarded me evil for good, and hatred for my love.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> Set a wicked man over him. Let an adversary stand at his right hand.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> When he is judged, let him come forth guilty. Let his prayer be turned into sin.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> Let his days be few. Let another take his office.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> Let his children be fatherless, and his wife a widow.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> Let his children be wandering beggars. Let them be sought from their ruins.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> Let the creditor seize all that he has. Let strangers plunder the fruit of his labor.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> Let there be none to extend kindness to him, neither let there be any to have pity on his fatherless children.</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> Let his posterity be cut off. In the generation following let their name be blotted out.</div>
+</div>
+<div class="row">
+<div class="number">14</div><div class="verse"> Let the iniquity of his fathers be remembered by Yahweh. Don't let the sin of his mother be blotted out.</div>
+</div>
+<div class="row">
+<div class="number">15</div><div class="verse"> Let them be before Yahweh continually, that he may cut off the memory of them from the earth;</div>
+</div>
+<div class="row">
+<div class="number">16</div><div class="verse"> because he didn't remember to show kindness, but persecuted the poor and needy man, the broken in heart, to kill them.</div>
+</div>
+<div class="row">
+<div class="number">17</div><div class="verse"> Yes, he loved cursing, and it came to him. He didn't delight in blessing, and it was far from him.</div>
+</div>
+<div class="row">
+<div class="number">18</div><div class="verse"> He clothed himself also with cursing as with his garment. It came into his inward parts like water, like oil into his bones.</div>
+</div>
+<div class="row">
+<div class="number">19</div><div class="verse"> Let it be to him as the clothing with which he covers himself, for the belt that is always around him.</div>
+</div>
+<div class="row">
+<div class="number">20</div><div class="verse"> This is the reward of my adversaries from Yahweh, of those who speak evil against my soul.</div>
+</div>
+<div class="row">
+<div class="number">21</div><div class="verse"> But deal with me, Yahweh the Lord, for your name's sake, because your loving kindness is good, deliver me;</div>
+</div>
+<div class="row">
+<div class="number">22</div><div class="verse"> for I am poor and needy. My heart is wounded within me.</div>
+</div>
+<div class="row">
+<div class="number">23</div><div class="verse"> I fade away like an evening shadow. I am shaken off like a locust.</div>
+</div>
+<div class="row">
+<div class="number">24</div><div class="verse"> My knees are weak through fasting. My body is thin and lacks fat.</div>
+</div>
+<div class="row">
+<div class="number">25</div><div class="verse"> I have also become a reproach to them. When they see me, they shake their head.</div>
+</div>
+<div class="row">
+<div class="number">26</div><div class="verse"> Help me, Yahweh, my God. Save me according to your loving kindness;</div>
+</div>
+<div class="row">
+<div class="number">27</div><div class="verse"> that they may know that this is your hand; that you, Yahweh, have done it.</div>
+</div>
+<div class="row">
+<div class="number">28</div><div class="verse"> They may curse, but you bless. When they arise, they will be shamed, but your servant shall rejoice.</div>
+</div>
+<div class="row">
+<div class="number">29</div><div class="verse"> Let my adversaries be clothed with dishonor. Let them cover themselves with their own shame as with a robe.</div>
+</div>
+<div class="row">
+<div class="number">30</div><div class="verse"> I will give great thanks to Yahweh with my mouth. Yes, I will praise him among the multitude.</div>
+</div>
+<div class="row">
+<div class="number">31</div><div class="verse"> For he will stand at the right hand of the needy, to save him from those who judge his soul.</div>
+</div>
+</div>

@@ -1,0 +1,24 @@
+<h3>Psalm 120</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [A Song of Ascents.] In my distress, I cried to Yahweh. He answered me.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> Deliver my soul, Yahweh, from lying lips, from a deceitful tongue.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> What will be given to you, and what will be done more to you, you deceitful tongue?</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Sharp arrows of the mighty, with coals of juniper.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> Woe is me, that I live in Meshech, that I dwell among the tents of Kedar!</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> My soul has had her dwelling too long with him who hates peace.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> I am for peace, but when I speak, they are for war.</div>
+</div>
+</div>

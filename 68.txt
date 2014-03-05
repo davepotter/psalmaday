@@ -1,0 +1,108 @@
+<h3>Psalm 68</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [For the Chief Musician. A Psalm by David. A song.] Let God arise! Let his enemies be scattered! Let them who hate him also flee before him.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> As smoke is driven away, so drive them away. As wax melts before the fire, so let the wicked perish at the presence of God.</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> But let the righteous be glad. Let them rejoice before God. Yes, let them rejoice with gladness.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Sing to God! Sing praises to his name! Extol him who rides on the clouds: to Yah, his name! Rejoice before him!</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> A father of the fatherless, and a defender of the widows, is God in his holy habitation.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> God sets the lonely in families. He brings out the prisoners with singing, but the rebellious dwell in a sun-scorched land.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> God, when you went forth before your people, when you marched through the wilderness... Selah.</div>
+</div>
+<div class="row">
+<div class="number">8</div><div class="verse"> The earth trembled. The sky also poured down rain at the presence of the God of Sinai-- at the presence of God, the God of Israel.</div>
+</div>
+<div class="row">
+<div class="number">9</div><div class="verse"> You, God, sent a plentiful rain. You confirmed your inheritance, when it was weary.</div>
+</div>
+<div class="row">
+<div class="number">10</div><div class="verse"> Your congregation lived therein. You, God, prepared your goodness for the poor.</div>
+</div>
+<div class="row">
+<div class="number">11</div><div class="verse"> The Lord announced the word. The ones who proclaim it are a great company.</div>
+</div>
+<div class="row">
+<div class="number">12</div><div class="verse"> "Kings of armies flee! They flee!" She who waits at home divides the spoil,</div>
+</div>
+<div class="row">
+<div class="number">13</div><div class="verse"> while you sleep among the campfires, the wings of a dove sheathed with silver, her feathers with shining gold.</div>
+</div>
+<div class="row">
+<div class="number">14</div><div class="verse"> When the Almighty scattered kings in her, it snowed on Zalmon.</div>
+</div>
+<div class="row">
+<div class="number">15</div><div class="verse"> The mountains of Bashan are majestic mountains. The mountains of Bashan are rugged.</div>
+</div>
+<div class="row">
+<div class="number">16</div><div class="verse"> Why do you look in envy, you rugged mountains, at the mountain where God chooses to reign? Yes, Yahweh will dwell there forever.</div>
+</div>
+<div class="row">
+<div class="number">17</div><div class="verse"> The chariots of God are tens of thousands and thousands of thousands. The Lord is among them, from Sinai, into the sanctuary.</div>
+</div>
+<div class="row">
+<div class="number">18</div><div class="verse"> You have ascended on high. You have led away captives. You have received gifts among men, yes, among the rebellious also, that Yah God might dwell there.</div>
+</div>
+<div class="row">
+<div class="number">19</div><div class="verse"> Blessed be the Lord, who daily bears our burdens, even the God who is our salvation. Selah.</div>
+</div>
+<div class="row">
+<div class="number">20</div><div class="verse"> God is to us a God of deliverance. To Yahweh, the Lord, belongs escape from death.</div>
+</div>
+<div class="row">
+<div class="number">21</div><div class="verse"> But God will strike through the head of his enemies, the hairy scalp of such a one as still continues in his guiltiness.</div>
+</div>
+<div class="row">
+<div class="number">22</div><div class="verse"> The Lord said, "I will bring you again from Bashan, I will bring you again from the depths of the sea;</div>
+</div>
+<div class="row">
+<div class="number">23</div><div class="verse"> That you may crush them, dipping your foot in blood, that the tongues of your dogs may have their portion from your enemies."</div>
+</div>
+<div class="row">
+<div class="number">24</div><div class="verse"> They have seen your processions, God, even the processions of my God, my King, into the sanctuary.</div>
+</div>
+<div class="row">
+<div class="number">25</div><div class="verse"> The singers went before, the minstrels followed after, in the midst of the ladies playing with tambourines,</div>
+</div>
+<div class="row">
+<div class="number">26</div><div class="verse"> "Bless God in the congregations, even the Lord in the assembly of Israel!"</div>
+</div>
+<div class="row">
+<div class="number">27</div><div class="verse"> There is little Benjamin, their ruler, the princes of Judah, their council, the princes of Zebulun, and the princes of Naphtali.</div>
+</div>
+<div class="row">
+<div class="number">28</div><div class="verse"> Your God has commanded your strength. Strengthen, God, that which you have done for us.</div>
+</div>
+<div class="row">
+<div class="number">29</div><div class="verse"> Because of your temple at Jerusalem, kings shall bring presents to you.</div>
+</div>
+<div class="row">
+<div class="number">30</div><div class="verse"> Rebuke the wild animal of the reeds, the multitude of the bulls, with the calves of the peoples. Being humbled, may it bring bars of silver. Scatter the nations that delight in war.</div>
+</div>
+<div class="row">
+<div class="number">31</div><div class="verse"> Princes shall come out of Egypt. Ethiopia shall hurry to stretch out her hands to God.</div>
+</div>
+<div class="row">
+<div class="number">32</div><div class="verse"> Sing to God, you kingdoms of the earth! Sing praises to the Lord! Selah.</div>
+</div>
+<div class="row">
+<div class="number">33</div><div class="verse"> To him who rides on the heaven of heavens, which are of old; behold, he utters his voice, a mighty voice.</div>
+</div>
+<div class="row">
+<div class="number">34</div><div class="verse"> Ascribe strength to God! His excellency is over Israel, his strength is in the skies.</div>
+</div>
+<div class="row">
+<div class="number">35</div><div class="verse"> You are awesome, God, in your sanctuaries. The God of Israel gives strength and power to his people. Praise be to God!</div>
+</div>
+</div>

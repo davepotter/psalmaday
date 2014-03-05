@@ -1,0 +1,24 @@
+<h3>Psalm 67</h3>
+<div class="container">
+<div class="row">
+<div class="number">1</div><div class="verse"> [For the Chief Musician. With stringed instruments. A Psalm. A song.] May God be merciful to us, bless us, and cause his face to shine on us. Selah.</div>
+</div>
+<div class="row">
+<div class="number">2</div><div class="verse"> That your way may be known on earth, and your salvation among all nations,</div>
+</div>
+<div class="row">
+<div class="number">3</div><div class="verse"> let the peoples praise you, God. Let all the peoples praise you.</div>
+</div>
+<div class="row">
+<div class="number">4</div><div class="verse"> Oh let the nations be glad and sing for joy, for you will judge the peoples with equity, and govern the nations on earth. Selah.</div>
+</div>
+<div class="row">
+<div class="number">5</div><div class="verse"> Let the peoples praise you, God. Let all the peoples praise you.</div>
+</div>
+<div class="row">
+<div class="number">6</div><div class="verse"> The earth has yielded its increase. God, even our own God, will bless us.</div>
+</div>
+<div class="row">
+<div class="number">7</div><div class="verse"> God will bless us. All the ends of the earth shall fear him.</div>
+</div>
+</div>
