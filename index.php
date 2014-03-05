@@ -22,9 +22,12 @@
             $psalm = sprintf("./%s.txt", $num);
             // get all contents (pre-formatted html)
             $file = file_get_contents($psalm,true);
-            $convert = explode("\n", $file);
-            // echo all the lines back to the client.
-            for ($i=0; $i<count($convert); $i++) {echo $convert[$i];}
+            if($file===FALSE){echo "can't open Psalm ".$num;}
+            else
+            {
+               // echo all the lines back to the client.
+               echo $file;
+            }
          ?>
         <label>Read Psalm:</label>
         <select name="p" id="pssel" onchange="ReadPsalm();">
