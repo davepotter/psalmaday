@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8" />
         <title>Selected Psalm</title>
-        <link rel="stylesheet" type="text/css" href="styles.css">
+        <link rel="stylesheet" type="text/css" href="styles.css" />
         <link rel="icon" type="image/x-icon" href="favicon.ico" />
         <script>
             function ReadPsalm(){
