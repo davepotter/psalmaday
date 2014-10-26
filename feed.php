@@ -6,9 +6,9 @@
    print("<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\n" );
    print("<rss version=\"2.0\" xmlns:dc=\"http://dublincore.org/documents/dcmi-namespace/\" >\n");
    print("  <channel>\n");
-   printf("    <title>Psalm for today (Psalm %d)</title>\n",$num);
+   print("    <title>Psalm for today</title>\n");
    print("    <link>http://psalmaday.azurewebsites.net</link>\n");
-   printf("    <description>Psalm %d</description>\n",$num);
+   print("    <description>Psalm for today</description>\n");
    print("    <language>en-us</language>\n");
    print("    <pubDate>" . date("D, d M Y H:i:s 0") . "</pubDate>\n");
    print("    <lastBuildDate>" . date("D, d M Y H:i:s 0") . "</lastBuildDate>\n");
@@ -34,7 +34,7 @@
       $str = str_replace("</div><div class=\"verse\"> ","",$str);
       $str = str_replace("</div>","",$str);
       print("    <item>\n");
-      printf("      <title>Verse %s</title>\n", $verse);
+      printf("      <title>Psalm %d:%s</title>\n",$num, $verse);
       printf("      <link>http://psalmaday.azurewebsites.net/select.php?p=%d#%s</link>\n",$num,$verse);
       printf("      <description>%s</description>\n",$str);
       print("       <pubDate>" . date("D, d M Y H:i:s 0") . "</pubDate>\n");
